@@ -1,0 +1,883 @@
+Date,Time,Location,Latitude,Longitude,Vehicle_Type,Weather,Road_Type,Severity,Day_of_Week,Month,Hour,Is_Fatal
+2024-11-23,09:46,Pollachi Road,10.97730147112835,76.87883785851956,Truck,Clear,National Highway,Minor,Saturday,November,9,0
+2024-02-27,06:47,Cross Cut Road,10.995739362870546,76.91391524307788,Two-Wheeler,Clear,City Roads,Serious,Tuesday,February,6,0
+2024-01-13,17:11,Karamadai,10.990980242616294,76.8946806888928,Two-Wheeler,Clear,State Highway,Minor,Saturday,January,17,0
+2024-05-20,08:30,Avinashi Road,11.110411562091448,76.97293727848636,Auto-Rickshaw,Rain,State Highway,Serious,Monday,May,8,0
+2024-05-05,11:48,Sathy Road,11.02871207772661,77.00890654693828,Two-Wheeler,Clear,State Highway,Minor,Sunday,May,11,0
+2024-04-24,16:06,Pollachi Road,11.032897381978291,76.86458096517221,Two-Wheeler,Rain,State Highway,Serious,Wednesday,April,16,0
+2024-03-12,19:14,Peelamedu,10.968858330431381,76.86173711465466,Two-Wheeler,Clear,State Highway,Fatal,Tuesday,March,19,1
+2024-02-22,10:00,Brookefields,11.01754934436804,76.89536499887123,Truck,Clear,National Highway,Minor,Thursday,February,10,0
+2024-12-12,18:17,Trichy Road,11.102865388231242,76.89062932182989,Two-Wheeler,Cloudy,State Highway,Fatal,Thursday,December,18,1
+2024-10-06,00:35,Race Course Road,11.092379350394136,77.03287644591033,Truck,Clear,National Highway,Minor,Sunday,October,0,0
+2024-02-14,09:40,Karamadai,10.943183906736445,76.99956733478052,Truck,Clear,City Roads,Serious,Wednesday,February,9,0
+2024-10-29,19:06,Karamadai,10.980263477358603,76.9237634986036,Two-Wheeler,Rain,State Highway,Serious,Tuesday,October,19,0
+2024-08-04,20:18,Pollachi Road,11.02288476017852,76.96670099103147,Car/SUV,Rain,State Highway,Serious,Sunday,August,20,0
+2024-01-17,13:21,Peelamedu,10.945159146804222,76.8915082861602,Two-Wheeler,Clear,Village Roads,Serious,Wednesday,January,13,0
+2024-01-16,06:16,Karanampettai,10.940168411232932,76.86009840561162,Two-Wheeler,Rain,State Highway,Serious,Tuesday,January,6,0
+2024-02-17,22:07,Singanallur,10.925632432297641,77.02437628414302,Truck,Clear,State Highway,Minor,Saturday,February,22,0
+2024-04-21,19:31,Brookefields,10.942374298946874,77.03792979003964,Two-Wheeler,Clear,State Highway,Fatal,Sunday,April,19,1
+2024-04-29,05:43,Race Course Road,11.091135911830323,76.85999875209248,Truck,Clear,Village Roads,Minor,Monday,April,5,0
+2024-09-15,01:51,Mettupalayam Road,11.083760807563365,76.9912904757995,Bus,Fog,National Highway,Fatal,Sunday,September,1,1
+2024-11-04,16:05,Karanampettai,11.066364673543859,76.93158455158303,Pedestrian,Clear,State Highway,Fatal,Monday,November,16,1
+2024-01-14,21:35,Race Course Road,11.102047408494482,77.01328281610759,Two-Wheeler,Clear,State Highway,Minor,Sunday,January,21,0
+2024-10-14,20:38,Sathy Road,10.973385101638426,76.87799380190727,Two-Wheeler,Clear,State Highway,Minor,Monday,October,20,0
+2024-04-11,18:49,Sathy Road,11.092187277101303,77.04302282083367,Two-Wheeler,Rain,State Highway,Serious,Thursday,April,18,0
+2024-11-28,16:58,Peelamedu,11.039386314126236,76.91681447560818,Two-Wheeler,Clear,State Highway,Serious,Thursday,November,16,0
+2024-12-25,14:27,Race Course Road,11.069112783787723,76.9038299865747,Truck,Clear,State Highway,Minor,Wednesday,December,14,0
+2024-10-06,11:03,Singanallur,10.969551588101645,77.01769755405836,Two-Wheeler,Clear,State Highway,Fatal,Sunday,October,11,1
+2024-08-02,17:06,Avinashi Road,10.97940206317272,76.98798174304271,Two-Wheeler,Clear,State Highway,Minor,Friday,August,17,0
+2024-04-22,21:40,Karanampettai,11.09533436196593,77.0440323511346,Auto-Rickshaw,Clear,State Highway,Minor,Monday,April,21,0
+2024-08-17,11:05,Mettupalayam Road,10.979908583892687,77.0512203692064,Two-Wheeler,Clear,State Highway,Minor,Saturday,August,11,0
+2024-10-28,06:35,Brookefields,11.115713013177029,77.05533898284317,Truck,Rain,National Highway,Minor,Monday,October,6,0
+2024-05-22,00:26,Mettupalayam Road,11.069535082730726,77.03213275901335,Truck,Cloudy,State Highway,Fatal,Wednesday,May,0,1
+2024-01-04,14:30,Trichy Road,10.947052949231379,77.03147756728968,Two-Wheeler,Clear,State Highway,Fatal,Thursday,January,14,1
+2024-03-22,09:18,Pollachi Road,11.08740673225351,76.8688755038835,Pedestrian,Fog,State Highway,Fatal,Friday,March,9,1
+2024-12-23,20:55,Gandhipuram,11.04828389553525,76.88468644916225,Two-Wheeler,Clear,State Highway,Serious,Monday,December,20,0
+2024-08-04,14:14,Singanallur,11.076444036650642,77.0406310934466,Car/SUV,Clear,State Highway,Serious,Sunday,August,14,0
+2024-06-23,23:37,Karanampettai,10.927444437654197,77.01477962330227,Two-Wheeler,Clear,National Highway,Serious,Sunday,June,23,0
+2024-05-22,15:27,Avinashi Road,10.946524161408197,76.89413625843011,Truck,Clear,City Roads,Fatal,Wednesday,May,15,1
+2024-03-20,06:41,Brookefields,10.962772109113844,76.9314391058778,Two-Wheeler,Clear,State Highway,Minor,Wednesday,March,6,0
+2024-04-20,07:52,Sathy Road,10.923972449633848,76.93065106038742,Truck,Rain,State Highway,Serious,Saturday,April,7,0
+2024-06-21,06:10,Gandhipuram,10.968844792717032,76.97570983252159,Car/SUV,Clear,State Highway,Serious,Friday,June,6,0
+2024-02-22,20:47,Mettupalayam Road,11.05799257251491,77.0511963080587,Two-Wheeler,Rain,City Roads,Minor,Thursday,February,20,0
+2024-02-17,19:28,Gandhipuram,11.004085973304546,76.9047099277869,Two-Wheeler,Clear,City Roads,Serious,Saturday,February,19,0
+2024-07-13,08:19,Karanampettai,11.115840348671638,76.86503903847199,Truck,Clear,State Highway,Minor,Saturday,July,8,0
+2024-02-19,19:32,Peelamedu,11.10224126822786,76.9790056015541,Auto-Rickshaw,Cloudy,State Highway,Serious,Monday,February,19,0
+2024-07-02,16:05,Brookefields,10.924958341708063,76.89362043286329,Two-Wheeler,Clear,State Highway,Minor,Tuesday,July,16,0
+2024-06-25,16:47,Thudiyalur,10.988104023249177,76.96289366842237,Two-Wheeler,Clear,State Highway,Serious,Tuesday,June,16,0
+2024-11-05,10:01,Karamadai,11.058605828453384,77.01371755787814,Truck,Clear,State Highway,Fatal,Tuesday,November,10,1
+2024-05-15,08:53,Brookefields,11.01383990289235,76.92133612090225,Car/SUV,Rain,State Highway,Fatal,Wednesday,May,8,1
+2024-01-23,20:01,Race Course Road,11.0153977100022,76.86645179501393,Two-Wheeler,Clear,State Highway,Minor,Tuesday,January,20,0
+2024-08-23,23:52,Pollachi Road,11.085967670189982,77.01492238401185,Pedestrian,Clear,State Highway,Serious,Friday,August,23,0
+2024-10-01,09:48,Thudiyalur,11.090175860077222,77.03037029838332,Two-Wheeler,Clear,State Highway,Fatal,Tuesday,October,9,1
+2024-03-04,19:33,Cross Cut Road,10.94153084680677,77.02610052767436,Two-Wheeler,Clear,State Highway,Serious,Monday,March,19,0
+2024-07-12,16:11,Sathy Road,10.935515575640997,77.04947686150086,Two-Wheeler,Clear,State Highway,Serious,Friday,July,16,0
+2024-02-10,22:40,Pollachi Road,11.090434621924336,77.032966857554,Two-Wheeler,Clear,National Highway,Serious,Saturday,February,22,0
+2024-10-09,18:30,Peelamedu,10.95293099282228,76.89764751469984,Car/SUV,Rain,State Highway,Fatal,Wednesday,October,18,1
+2024-05-30,10:20,Karamadai,10.950459000322128,76.87208154037097,Car/SUV,Clear,State Highway,Minor,Thursday,May,10,0
+2024-11-17,18:21,Periyanaickenpalayam,11.01854755278613,76.94993345872014,Car/SUV,Cloudy,State Highway,Minor,Sunday,November,18,0
+2024-11-12,13:18,Periyanaickenpalayam,10.971358310751986,76.98850043971372,Truck,Clear,State Highway,Serious,Tuesday,November,13,0
+2024-07-04,16:52,Mettupalayam Road,11.094978904448654,76.86877460819397,Truck,Clear,State Highway,Minor,Thursday,July,16,0
+2024-10-22,18:29,Karanampettai,11.033935480362768,76.95752276107686,Bus,Clear,National Highway,Minor,Tuesday,October,18,0
+2024-04-08,07:20,Mettupalayam Road,11.033509478196509,77.00606160759094,Truck,Rain,City Roads,Fatal,Monday,April,7,1
+2024-12-26,07:55,Periyanaickenpalayam,11.111125470930524,76.98481431285013,Two-Wheeler,Rain,National Highway,Minor,Thursday,December,7,0
+2024-02-05,15:42,Sathy Road,11.02200308132,76.95763170344571,Car/SUV,Rain,National Highway,Serious,Monday,February,15,0
+2024-01-24,19:26,Singanallur,11.030957562226904,76.95551755522324,Car/SUV,Clear,State Highway,Serious,Wednesday,January,19,0
+2024-12-04,04:23,Karamadai,11.000083798277993,76.94865345551221,Truck,Clear,National Highway,Serious,Wednesday,December,4,0
+2024-04-26,16:40,Sathy Road,10.932167092558975,76.92016462657524,Two-Wheeler,Clear,National Highway,Serious,Friday,April,16,0
+2024-05-28,12:13,Thudiyalur,11.070450685396956,76.93057574426751,Two-Wheeler,Cloudy,State Highway,Serious,Tuesday,May,12,0
+2024-02-10,09:59,Sathy Road,11.052181703219272,76.99470193474784,Auto-Rickshaw,Clear,City Roads,Minor,Saturday,February,9,0
+2024-04-29,11:31,Karanampettai,11.094273539603737,76.99892997453772,Pedestrian,Clear,State Highway,Serious,Monday,April,11,0
+2024-02-21,08:38,Pollachi Road,10.921992433721247,76.95475840506815,Car/SUV,Clear,State Highway,Fatal,Wednesday,February,8,1
+2024-07-13,20:10,Thudiyalur,11.05306246896585,76.90946709169921,Two-Wheeler,Clear,State Highway,Serious,Saturday,July,20,0
+2024-05-22,09:35,Singanallur,11.052927881887541,76.93598921410755,Car/SUV,Clear,State Highway,Minor,Wednesday,May,9,0
+2024-08-20,12:53,Karamadai,10.995633960553345,77.04003704473767,Car/SUV,Clear,State Highway,Minor,Tuesday,August,12,0
+2024-11-21,22:07,Brookefields,11.034867699565215,76.97259652430077,Car/SUV,Rain,State Highway,Fatal,Thursday,November,22,1
+2024-07-05,15:31,Trichy Road,11.107043970015749,76.86312089758992,Pedestrian,Clear,State Highway,Minor,Friday,July,15,0
+2024-03-24,22:32,Karanampettai,11.084195441716222,76.89970525653196,Pedestrian,Rain,State Highway,Minor,Sunday,March,22,0
+2024-07-08,19:53,Brookefields,10.94755509373676,76.89640009934318,Auto-Rickshaw,Clear,State Highway,Fatal,Monday,July,19,1
+2024-06-30,13:15,Avinashi Road,10.93301264734899,77.0284336527383,Two-Wheeler,Clear,State Highway,Fatal,Sunday,June,13,1
+2024-04-17,12:24,Sathy Road,11.08293984511451,76.93497999508767,Auto-Rickshaw,Clear,State Highway,Fatal,Wednesday,April,12,1
+2024-12-09,08:32,Karamadai,11.048707864630007,76.91699980726393,Car/SUV,Clear,State Highway,Minor,Monday,December,8,0
+2024-05-16,18:55,Thudiyalur,11.00761110302859,77.03354178590935,Two-Wheeler,Clear,State Highway,Serious,Thursday,May,18,0
+2024-12-25,03:21,Sathy Road,11.107840306194602,76.9700740773517,Truck,Clear,National Highway,Serious,Wednesday,December,3,0
+2024-12-15,23:17,Periyanaickenpalayam,11.035640851870188,77.04289978139762,Truck,Clear,National Highway,Minor,Sunday,December,23,0
+2024-11-27,19:46,Trichy Road,10.91796107214902,76.93062147105712,Pedestrian,Clear,State Highway,Fatal,Wednesday,November,19,1
+2024-02-06,11:37,Thudiyalur,11.110754102760325,76.96591039478295,Truck,Clear,State Highway,Minor,Tuesday,February,11,0
+2024-11-07,22:55,Race Course Road,11.04803455140347,76.88266606310549,Two-Wheeler,Clear,State Highway,Serious,Thursday,November,22,0
+2024-11-21,08:30,Brookefields,11.106979193695041,76.87260562987186,Two-Wheeler,Clear,State Highway,Serious,Thursday,November,8,0
+2024-03-28,11:48,Trichy Road,10.981783093660203,76.94470106308285,Two-Wheeler,Clear,State Highway,Minor,Thursday,March,11,0
+2024-09-30,16:59,Cross Cut Road,11.063109043466778,76.92611499032702,Two-Wheeler,Clear,National Highway,Serious,Monday,September,16,0
+2024-05-05,09:44,Peelamedu,11.063663911907193,76.97259244494609,Two-Wheeler,Clear,Village Roads,Serious,Sunday,May,9,0
+2024-03-24,10:14,Thudiyalur,11.108280555827966,76.94885062221327,Truck,Clear,State Highway,Fatal,Sunday,March,10,1
+2024-08-24,19:02,Mettupalayam Road,11.030631687166274,76.98002516396102,Car/SUV,Cloudy,National Highway,Serious,Saturday,August,19,0
+2024-07-13,10:45,Karanampettai,10.959073372207998,76.94102046871654,Car/SUV,Clear,State Highway,Serious,Saturday,July,10,0
+2024-05-18,22:24,Periyanaickenpalayam,10.926536449720796,76.94931019774751,Car/SUV,Clear,City Roads,Serious,Saturday,May,22,0
+2024-11-23,23:09,Trichy Road,11.045528805904022,76.9375905550711,Two-Wheeler,Clear,City Roads,Serious,Saturday,November,23,0
+2024-12-18,12:08,Peelamedu,10.981434169337373,77.01670089305868,Truck,Clear,State Highway,Fatal,Wednesday,December,12,1
+2024-10-12,17:21,Periyanaickenpalayam,10.927907004797161,76.91920408514889,Two-Wheeler,Clear,National Highway,Serious,Saturday,October,17,0
+2024-04-22,19:06,Mettupalayam Road,10.930944817809994,76.93227418532479,Car/SUV,Clear,State Highway,Serious,Monday,April,19,0
+2024-12-16,16:00,Peelamedu,11.107180037728387,76.8917131462003,Car/SUV,Clear,State Highway,Minor,Monday,December,16,0
+2024-06-15,19:55,Sathy Road,10.993078185982332,76.90255807992462,Two-Wheeler,Clear,State Highway,Fatal,Saturday,June,19,1
+2024-01-29,15:04,Gandhipuram,10.99657169939155,76.98487097052914,Two-Wheeler,Rain,City Roads,Serious,Monday,January,15,0
+2024-04-27,13:21,Peelamedu,10.952402160155893,76.92761858703713,Car/SUV,Clear,National Highway,Serious,Saturday,April,13,0
+2024-01-17,16:41,Singanallur,11.109809861962315,76.8722837022044,Two-Wheeler,Rain,National Highway,Serious,Wednesday,January,16,0
+2024-06-10,02:54,Thudiyalur,11.089903102145966,77.02432067783738,Bus,Clear,State Highway,Serious,Monday,June,2,0
+2024-07-24,20:24,Cross Cut Road,10.93463766153531,76.95835819789566,Car/SUV,Clear,National Highway,Minor,Wednesday,July,20,0
+2024-05-17,23:45,Karamadai,11.087269166648719,76.98453087984049,Two-Wheeler,Rain,State Highway,Serious,Friday,May,23,0
+2024-02-03,22:55,Pollachi Road,10.94938813677505,77.01297465918724,Car/SUV,Cloudy,National Highway,Minor,Saturday,February,22,0
+2024-04-18,17:04,Avinashi Road,11.072698509029145,77.04112118384204,Bus,Clear,State Highway,Fatal,Thursday,April,17,1
+2024-10-17,11:58,Cross Cut Road,10.973787177799892,76.87548182194023,Truck,Clear,National Highway,Serious,Thursday,October,11,0
+2024-06-10,09:47,Thudiyalur,11.067311713258077,76.87006973545586,Two-Wheeler,Rain,State Highway,Minor,Monday,June,9,0
+2024-04-18,06:48,Cross Cut Road,11.047612859764897,76.86345627703969,Truck,Clear,State Highway,Fatal,Thursday,April,6,1
+2024-12-01,15:28,Sathy Road,10.940920396820525,76.89586131937169,Truck,Clear,National Highway,Minor,Sunday,December,15,0
+2024-09-12,07:57,Periyanaickenpalayam,11.014969019521923,76.89512926457391,Bus,Clear,State Highway,Minor,Thursday,September,7,0
+2024-07-21,02:50,Thudiyalur,11.003271683883503,76.92164825851026,Two-Wheeler,Rain,Village Roads,Minor,Sunday,July,2,0
+2024-11-25,02:23,Karanampettai,11.07807063918367,76.91634311654748,Two-Wheeler,Rain,State Highway,Minor,Monday,November,2,0
+2024-08-22,12:33,Cross Cut Road,10.978820261442266,77.01891295594048,Two-Wheeler,Clear,National Highway,Serious,Thursday,August,12,0
+2024-03-14,14:50,Cross Cut Road,11.053792388372889,76.99250786596156,Car/SUV,Clear,State Highway,Fatal,Thursday,March,14,1
+2024-05-15,06:05,Sathy Road,10.943057333694464,76.91069291130101,Car/SUV,Clear,State Highway,Minor,Wednesday,May,6,0
+2024-03-12,16:39,Sathy Road,11.049904059243369,76.9969285275281,Two-Wheeler,Fog,State Highway,Fatal,Tuesday,March,16,1
+2024-05-06,19:58,Pollachi Road,11.083210574864532,77.05539914108792,Truck,Clear,State Highway,Serious,Monday,May,19,0
+2024-10-14,15:29,Periyanaickenpalayam,11.019330645131873,77.05548101956695,Truck,Clear,City Roads,Minor,Monday,October,15,0
+2024-10-02,16:16,Periyanaickenpalayam,11.014724607165817,77.00627667133239,Two-Wheeler,Rain,State Highway,Minor,Wednesday,October,16,0
+2024-05-14,19:57,Brookefields,11.093882607728377,77.00376420118678,Truck,Rain,State Highway,Fatal,Tuesday,May,19,1
+2024-10-26,11:10,Race Course Road,11.012087937325953,77.03827650602629,Truck,Clear,State Highway,Minor,Saturday,October,11,0
+2024-08-07,02:37,Sathy Road,11.029411415386708,76.85750677568029,Two-Wheeler,Clear,State Highway,Minor,Wednesday,August,2,0
+2024-10-25,10:44,Brookefields,11.001414116087886,76.91569483040846,Pedestrian,Fog,City Roads,Serious,Friday,October,10,0
+2024-07-23,10:12,Gandhipuram,11.068098128698075,77.02026177117024,Car/SUV,Rain,City Roads,Fatal,Tuesday,July,10,1
+2024-07-04,22:06,Gandhipuram,11.078998871922845,77.0124256508184,Truck,Clear,State Highway,Serious,Thursday,July,22,0
+2024-04-22,11:22,Pollachi Road,11.039573556688959,76.93656222828896,Truck,Rain,State Highway,Minor,Monday,April,11,0
+2024-03-11,17:18,Sathy Road,11.003621184502075,76.93695169677416,Two-Wheeler,Clear,State Highway,Serious,Monday,March,17,0
+2024-09-17,05:25,Karamadai,11.00200341976426,76.97179075609118,Two-Wheeler,Clear,State Highway,Serious,Tuesday,September,5,0
+2024-09-09,11:55,Mettupalayam Road,10.924887617923828,76.98686170149429,Truck,Cloudy,State Highway,Serious,Monday,September,11,0
+2024-02-16,20:03,Karamadai,10.98514896947931,76.950200798759,Two-Wheeler,Clear,State Highway,Minor,Friday,February,20,0
+2024-01-25,23:31,Mettupalayam Road,11.00950497512287,76.95832939461063,Auto-Rickshaw,Clear,State Highway,Serious,Thursday,January,23,0
+2024-02-26,19:49,Race Course Road,10.961646042465583,77.00803210744782,Truck,Clear,National Highway,Minor,Monday,February,19,0
+2024-03-19,20:51,Peelamedu,11.054047307171874,76.88565622862795,Two-Wheeler,Clear,State Highway,Minor,Tuesday,March,20,0
+2024-11-17,11:12,Periyanaickenpalayam,10.947813940171402,76.93530105701026,Bus,Fog,State Highway,Serious,Sunday,November,11,0
+2024-03-22,17:48,Sathy Road,11.01586445075166,76.90118526046773,Two-Wheeler,Rain,National Highway,Fatal,Friday,March,17,1
+2024-12-14,20:43,Mettupalayam Road,11.042711916266718,77.00562741506378,Two-Wheeler,Clear,State Highway,Minor,Saturday,December,20,0
+2024-08-04,20:06,Peelamedu,11.021735556775287,76.95068765036125,Truck,Clear,State Highway,Minor,Sunday,August,20,0
+2024-11-01,23:02,Periyanaickenpalayam,10.97494060489568,76.95896507009715,Car/SUV,Fog,State Highway,Minor,Friday,November,23,0
+2024-02-02,10:02,Brookefields,11.004271103786206,77.01299492964836,Two-Wheeler,Clear,State Highway,Serious,Friday,February,10,0
+2024-07-16,17:08,Thudiyalur,11.098241542210497,77.0073242598485,Car/SUV,Clear,State Highway,Fatal,Tuesday,July,17,1
+2024-07-14,07:20,Trichy Road,11.012322273034444,77.00030207026958,Two-Wheeler,Rain,State Highway,Serious,Sunday,July,7,0
+2024-11-01,18:12,Singanallur,10.946521307730952,76.9480802274535,Car/SUV,Clear,State Highway,Fatal,Friday,November,18,1
+2024-08-27,08:56,Brookefields,10.942357949668637,77.01418297767323,Car/SUV,Clear,City Roads,Fatal,Tuesday,August,8,1
+2024-09-27,23:32,Singanallur,11.097380723733318,76.91841496669919,Two-Wheeler,Clear,Village Roads,Minor,Friday,September,23,0
+2024-05-08,21:16,Race Course Road,11.085107590855142,76.89336931041001,Two-Wheeler,Rain,State Highway,Minor,Wednesday,May,21,0
+2024-10-10,22:51,Race Course Road,11.021418411403495,77.00982621320178,Two-Wheeler,Clear,State Highway,Serious,Thursday,October,22,0
+2024-01-06,10:51,Trichy Road,10.975896326781118,76.99538825382245,Car/SUV,Clear,State Highway,Serious,Saturday,January,10,0
+2024-12-14,06:09,Singanallur,10.926345654879501,76.8977169507007,Truck,Cloudy,National Highway,Fatal,Saturday,December,6,1
+2024-02-28,18:55,Singanallur,10.93210650394753,76.94579438710949,Two-Wheeler,Fog,National Highway,Serious,Wednesday,February,18,0
+2024-12-15,20:25,Singanallur,10.925818980731687,76.96748936346486,Car/SUV,Rain,State Highway,Minor,Sunday,December,20,0
+2024-10-01,23:23,Cross Cut Road,10.938326434288399,76.93074003346406,Two-Wheeler,Clear,State Highway,Fatal,Tuesday,October,23,1
+2024-05-16,07:00,Periyanaickenpalayam,11.001782704241602,76.97130168972276,Auto-Rickshaw,Cloudy,Village Roads,Fatal,Thursday,May,7,1
+2024-11-24,09:29,Karamadai,10.935696872497584,76.88146912815805,Two-Wheeler,Cloudy,National Highway,Serious,Sunday,November,9,0
+2024-06-23,11:43,Thudiyalur,11.048971050787435,77.04447080023557,Car/SUV,Clear,National Highway,Minor,Sunday,June,11,0
+2024-02-27,10:52,Cross Cut Road,11.030495642073191,76.8577362308082,Two-Wheeler,Clear,National Highway,Fatal,Tuesday,February,10,1
+2024-05-30,16:06,Race Course Road,10.967476066213038,77.01788027699418,Two-Wheeler,Clear,State Highway,Fatal,Thursday,May,16,1
+2024-08-10,19:01,Periyanaickenpalayam,10.967772040870141,77.02265977631012,Auto-Rickshaw,Rain,State Highway,Fatal,Saturday,August,19,1
+2024-03-21,17:20,Thudiyalur,10.933153912306796,76.92376444837076,Auto-Rickshaw,Rain,National Highway,Serious,Thursday,March,17,0
+2024-08-20,21:41,Karanampettai,11.017488913488789,76.9396294631626,Car/SUV,Clear,State Highway,Fatal,Tuesday,August,21,1
+2024-01-02,03:58,Trichy Road,10.939587098199897,76.99295256117675,Auto-Rickshaw,Rain,State Highway,Serious,Tuesday,January,3,0
+2024-05-14,20:26,Pollachi Road,11.049115664683102,76.93647374343104,Truck,Rain,City Roads,Minor,Tuesday,May,20,0
+2024-09-13,06:02,Singanallur,10.952710439172652,77.01152868092436,Two-Wheeler,Rain,State Highway,Fatal,Friday,September,6,1
+2024-04-01,10:07,Thudiyalur,10.953241626910732,76.96332080127543,Two-Wheeler,Fog,State Highway,Minor,Monday,April,10,0
+2024-09-16,08:08,Sathy Road,10.995391467507568,76.9210159029051,Two-Wheeler,Clear,State Highway,Serious,Monday,September,8,0
+2024-02-24,13:42,Sathy Road,10.933458113026994,76.8604479680651,Truck,Clear,National Highway,Minor,Saturday,February,13,0
+2024-11-16,23:34,Trichy Road,11.0921510694271,77.01287156215938,Two-Wheeler,Clear,State Highway,Minor,Saturday,November,23,0
+2024-06-01,14:46,Thudiyalur,10.976329503157654,77.04022883810272,Two-Wheeler,Clear,State Highway,Serious,Saturday,June,14,0
+2024-11-23,07:41,Thudiyalur,11.034241677636048,76.8865382478971,Two-Wheeler,Clear,State Highway,Fatal,Saturday,November,7,1
+2024-09-16,07:39,Mettupalayam Road,11.007799629732004,77.04632750914433,Car/SUV,Clear,National Highway,Fatal,Monday,September,7,1
+2024-11-07,13:02,Cross Cut Road,11.050851973298114,76.92185010564356,Auto-Rickshaw,Cloudy,State Highway,Minor,Thursday,November,13,0
+2024-04-11,18:28,Pollachi Road,11.041562078833334,76.98176786141268,Two-Wheeler,Clear,National Highway,Fatal,Thursday,April,18,1
+2024-03-19,12:54,Avinashi Road,10.969814877947172,76.97640055719874,Bus,Cloudy,City Roads,Serious,Tuesday,March,12,0
+2024-07-10,11:23,Sathy Road,11.110143925354052,76.97736745429914,Pedestrian,Clear,State Highway,Minor,Wednesday,July,11,0
+2024-03-23,17:22,Brookefields,11.091068963649878,77.02918895110918,Pedestrian,Clear,State Highway,Minor,Saturday,March,17,0
+2024-10-03,02:12,Avinashi Road,10.954238346760077,77.05183442308503,Two-Wheeler,Clear,State Highway,Fatal,Thursday,October,2,1
+2024-09-28,22:05,Peelamedu,10.953817478165359,76.89664092370971,Car/SUV,Clear,State Highway,Serious,Saturday,September,22,0
+2024-01-01,17:40,Sathy Road,11.066205863854567,76.93392722930865,Two-Wheeler,Clear,State Highway,Minor,Monday,January,17,0
+2024-11-02,15:03,Thudiyalur,11.03761057467955,76.96269811615115,Bus,Clear,State Highway,Fatal,Saturday,November,15,1
+2024-06-14,18:08,Cross Cut Road,11.091123158969594,76.89346773562845,Two-Wheeler,Clear,State Highway,Minor,Friday,June,18,0
+2024-09-07,18:04,Avinashi Road,10.93806613174945,76.87752767121917,Car/SUV,Clear,State Highway,Serious,Saturday,September,18,0
+2024-01-10,20:13,Pollachi Road,11.023675200596326,76.96970300238421,Two-Wheeler,Clear,State Highway,Minor,Wednesday,January,20,0
+2024-02-27,15:21,Periyanaickenpalayam,10.917969413916667,76.9461070653066,Two-Wheeler,Rain,State Highway,Minor,Tuesday,February,15,0
+2024-07-04,20:00,Race Course Road,10.940135652073181,77.03474875899649,Car/SUV,Rain,State Highway,Fatal,Thursday,July,20,1
+2024-06-06,09:08,Cross Cut Road,10.951147070240678,76.8744483013204,Two-Wheeler,Clear,City Roads,Fatal,Thursday,June,9,1
+2024-05-02,15:07,Karamadai,11.012223974782472,76.87666263548566,Car/SUV,Rain,National Highway,Serious,Thursday,May,15,0
+2024-01-30,15:08,Pollachi Road,11.055161245997386,76.96638135506159,Car/SUV,Rain,State Highway,Serious,Tuesday,January,15,0
+2024-05-03,01:37,Trichy Road,11.090556104197676,76.86221183082233,Car/SUV,Clear,National Highway,Minor,Friday,May,1,0
+2024-10-17,09:16,Race Course Road,11.109960761511694,76.99360490994954,Car/SUV,Clear,National Highway,Minor,Thursday,October,9,0
+2024-02-10,05:26,Race Course Road,11.037177488025891,76.95352266451543,Truck,Clear,State Highway,Serious,Saturday,February,5,0
+2024-02-13,17:04,Sathy Road,11.014144498787521,76.89313842104524,Two-Wheeler,Clear,State Highway,Serious,Tuesday,February,17,0
+2024-09-05,13:32,Singanallur,11.040499874897499,76.86969820711515,Auto-Rickshaw,Clear,State Highway,Minor,Thursday,September,13,0
+2024-02-05,16:32,Sathy Road,11.111584378434337,77.04839891120477,Truck,Rain,State Highway,Serious,Monday,February,16,0
+2024-09-29,11:02,Cross Cut Road,10.988945756618175,76.91256352412387,Two-Wheeler,Clear,State Highway,Fatal,Sunday,September,11,1
+2024-03-05,20:33,Singanallur,11.051560628585728,76.90240788519844,Two-Wheeler,Clear,State Highway,Minor,Tuesday,March,20,0
+2024-03-06,11:01,Karanampettai,11.054858670871113,76.98771397864282,Two-Wheeler,Clear,State Highway,Fatal,Wednesday,March,11,1
+2024-12-03,03:54,Singanallur,10.995799447531462,76.8697958865265,Two-Wheeler,Rain,State Highway,Minor,Tuesday,December,3,0
+2024-08-31,14:06,Thudiyalur,10.977331331729346,76.8672906361232,Two-Wheeler,Clear,State Highway,Serious,Saturday,August,14,0
+2024-10-08,13:04,Singanallur,10.941817897986045,76.95950633603788,Bus,Clear,State Highway,Minor,Tuesday,October,13,0
+2024-03-25,22:38,Thudiyalur,10.919575183604362,76.89016514336879,Auto-Rickshaw,Rain,State Highway,Minor,Monday,March,22,0
+2024-05-15,06:17,Mettupalayam Road,10.939182500493478,77.02774146947534,Pedestrian,Clear,National Highway,Minor,Wednesday,May,6,0
+2024-09-27,17:35,Trichy Road,10.919977049303103,76.93797224686013,Two-Wheeler,Rain,State Highway,Fatal,Friday,September,17,1
+2024-11-06,19:38,Cross Cut Road,11.110904072732062,76.88720709100603,Truck,Clear,City Roads,Minor,Wednesday,November,19,0
+2024-08-04,16:32,Thudiyalur,11.08860240605297,76.87794878965785,Bus,Rain,State Highway,Minor,Sunday,August,16,0
+2024-04-18,15:50,Thudiyalur,10.9586458960669,76.96309060384394,Truck,Rain,State Highway,Minor,Thursday,April,15,0
+2024-10-03,20:41,Karanampettai,11.046524644340804,76.95145022847524,Two-Wheeler,Rain,State Highway,Serious,Thursday,October,20,0
+2024-12-19,23:46,Trichy Road,11.046747965207368,76.86955259815007,Car/SUV,Rain,State Highway,Minor,Thursday,December,23,0
+2024-04-12,19:28,Karanampettai,11.003957694760098,77.04681935312686,Two-Wheeler,Clear,National Highway,Minor,Friday,April,19,0
+2024-12-31,22:21,Karamadai,11.042011830225869,77.02893989878666,Car/SUV,Clear,National Highway,Serious,Tuesday,December,22,0
+2024-06-08,19:26,Singanallur,11.07480230732349,76.88178645667799,Two-Wheeler,Rain,State Highway,Fatal,Saturday,June,19,1
+2024-07-23,19:27,Peelamedu,10.95498289054348,76.89693540099525,Pedestrian,Rain,National Highway,Fatal,Tuesday,July,19,1
+2024-12-09,10:23,Karanampettai,10.976983573916138,76.94224013526721,Truck,Clear,State Highway,Minor,Monday,December,10,0
+2024-11-28,23:59,Karanampettai,11.009485111087807,76.99773432281135,Two-Wheeler,Clear,State Highway,Serious,Thursday,November,23,0
+2024-07-10,12:53,Avinashi Road,11.011597817501245,76.9507560048562,Auto-Rickshaw,Fog,State Highway,Minor,Wednesday,July,12,0
+2024-08-12,07:06,Singanallur,10.921163365644901,76.97654188973767,Auto-Rickshaw,Clear,State Highway,Minor,Monday,August,7,0
+2024-09-21,19:51,Avinashi Road,10.950021098635219,77.04363085094438,Car/SUV,Cloudy,City Roads,Minor,Saturday,September,19,0
+2024-08-19,06:37,Periyanaickenpalayam,10.947284447984071,76.97329839067902,Truck,Cloudy,State Highway,Serious,Monday,August,6,0
+2024-03-02,23:21,Gandhipuram,11.057319621141652,76.95629500423189,Two-Wheeler,Clear,State Highway,Fatal,Saturday,March,23,1
+2024-05-06,19:22,Gandhipuram,11.109573374147782,76.99276718582355,Pedestrian,Clear,City Roads,Serious,Monday,May,19,0
+2024-04-25,19:55,Sathy Road,11.011097839730423,76.9108881955053,Two-Wheeler,Clear,State Highway,Minor,Thursday,April,19,0
+2024-02-02,21:18,Periyanaickenpalayam,11.088759289088124,76.85728866175276,Two-Wheeler,Clear,National Highway,Fatal,Friday,February,21,1
+2024-06-22,16:06,Thudiyalur,11.03384525387679,76.88433839761872,Two-Wheeler,Clear,State Highway,Serious,Saturday,June,16,0
+2024-01-11,15:09,Karamadai,10.957067684004949,76.86859400858965,Bus,Rain,State Highway,Minor,Thursday,January,15,0
+2024-10-28,15:54,Peelamedu,11.030686092349068,76.93564738291032,Two-Wheeler,Rain,City Roads,Minor,Monday,October,15,0
+2024-10-10,08:23,Periyanaickenpalayam,11.083567706560691,77.0173131664974,Car/SUV,Rain,State Highway,Fatal,Thursday,October,8,1
+2024-04-27,07:36,Thudiyalur,10.926984436043874,76.9609713009609,Two-Wheeler,Fog,State Highway,Fatal,Saturday,April,7,1
+2024-10-28,10:54,Thudiyalur,10.918374856195843,77.0378605077881,Pedestrian,Rain,National Highway,Fatal,Monday,October,10,1
+2024-04-22,17:39,Avinashi Road,11.042881976067468,77.03164787829363,Two-Wheeler,Clear,National Highway,Serious,Monday,April,17,0
+2024-01-04,20:01,Avinashi Road,11.059418562924545,76.94784091200634,Two-Wheeler,Rain,State Highway,Fatal,Thursday,January,20,1
+2024-02-06,17:53,Pollachi Road,11.112697387587556,76.97102655045849,Two-Wheeler,Clear,State Highway,Serious,Tuesday,February,17,0
+2024-12-28,18:11,Karanampettai,11.086523252200639,77.00325814217791,Bus,Clear,State Highway,Fatal,Saturday,December,18,1
+2024-11-19,10:58,Cross Cut Road,11.064215662674101,76.91338235699877,Truck,Rain,State Highway,Fatal,Tuesday,November,10,1
+2024-01-31,09:11,Peelamedu,11.035967910115538,77.03199881468846,Truck,Cloudy,City Roads,Fatal,Wednesday,January,9,1
+2024-04-27,20:42,Singanallur,11.02766090504978,76.9470613248032,Two-Wheeler,Clear,Village Roads,Minor,Saturday,April,20,0
+2024-02-04,12:47,Trichy Road,10.974954906387653,76.99586330794489,Two-Wheeler,Clear,State Highway,Minor,Sunday,February,12,0
+2024-01-17,15:05,Gandhipuram,11.01429930262518,76.9981295867329,Two-Wheeler,Clear,National Highway,Minor,Wednesday,January,15,0
+2024-06-18,18:24,Brookefields,11.01402019212448,76.91528974548443,Two-Wheeler,Clear,State Highway,Minor,Tuesday,June,18,0
+2024-02-06,13:10,Pollachi Road,11.035007855112276,76.97840550234233,Truck,Clear,State Highway,Minor,Tuesday,February,13,0
+2024-09-20,11:20,Thudiyalur,11.039099058638932,77.01779695296563,Car/SUV,Clear,State Highway,Minor,Friday,September,11,0
+2024-05-01,20:38,Periyanaickenpalayam,11.052533583428074,76.89082525749065,Two-Wheeler,Clear,State Highway,Fatal,Wednesday,May,20,1
+2024-05-22,06:09,Pollachi Road,11.080137847393207,76.90562696351346,Two-Wheeler,Clear,State Highway,Minor,Wednesday,May,6,0
+2024-12-08,08:03,Trichy Road,11.01438029912696,77.03579292406103,Car/SUV,Clear,State Highway,Fatal,Sunday,December,8,1
+2024-09-05,19:28,Brookefields,11.059658065755226,77.0024487905861,Two-Wheeler,Clear,National Highway,Minor,Thursday,September,19,0
+2024-04-19,16:38,Periyanaickenpalayam,11.022461761789053,76.94736563041309,Car/SUV,Clear,State Highway,Minor,Friday,April,16,0
+2024-10-03,13:13,Thudiyalur,11.001200909507876,77.03796661909085,Pedestrian,Clear,State Highway,Serious,Thursday,October,13,0
+2024-03-08,18:22,Singanallur,10.97997003004738,76.89248886378186,Two-Wheeler,Clear,State Highway,Minor,Friday,March,18,0
+2024-10-19,13:43,Sathy Road,10.929502113789095,76.96952305318047,Two-Wheeler,Rain,State Highway,Minor,Saturday,October,13,0
+2024-10-22,19:33,Race Course Road,11.095375439227075,76.93451026351846,Two-Wheeler,Clear,State Highway,Minor,Tuesday,October,19,0
+2024-08-30,18:14,Cross Cut Road,11.000227491618903,77.04493747227738,Two-Wheeler,Clear,National Highway,Fatal,Friday,August,18,1
+2024-05-04,14:03,Thudiyalur,11.011467594309062,76.90373905151716,Two-Wheeler,Clear,City Roads,Serious,Saturday,May,14,0
+2024-08-30,02:13,Cross Cut Road,11.015757760069812,77.02990791837861,Truck,Clear,State Highway,Minor,Friday,August,2,0
+2024-07-27,19:18,Karanampettai,11.104592895207077,76.91055525540494,Bus,Fog,State Highway,Minor,Saturday,July,19,0
+2024-04-07,09:31,Cross Cut Road,10.986152822673805,76.9814166406538,Truck,Clear,State Highway,Minor,Sunday,April,9,0
+2024-02-18,18:08,Karanampettai,11.05630288807784,76.91417791810431,Two-Wheeler,Clear,State Highway,Fatal,Sunday,February,18,1
+2024-02-19,14:14,Race Course Road,10.920961384942133,77.03905926671436,Bus,Clear,State Highway,Serious,Monday,February,14,0
+2024-12-03,17:51,Thudiyalur,10.974402156290724,76.99540879851361,Two-Wheeler,Clear,Village Roads,Minor,Tuesday,December,17,0
+2024-08-08,10:55,Thudiyalur,10.955240259500206,77.00028187783693,Two-Wheeler,Clear,State Highway,Minor,Thursday,August,10,0
+2024-06-30,19:01,Karanampettai,10.985569477960633,76.89925097379198,Two-Wheeler,Rain,State Highway,Serious,Sunday,June,19,0
+2024-08-04,12:55,Peelamedu,10.963220622628384,76.95449751544487,Two-Wheeler,Clear,State Highway,Fatal,Sunday,August,12,1
+2024-07-29,10:36,Pollachi Road,10.960740469008176,77.05427794437685,Car/SUV,Clear,Village Roads,Fatal,Monday,July,10,1
+2024-08-27,14:26,Karanampettai,11.098614030833504,76.96636477892582,Truck,Clear,State Highway,Minor,Tuesday,August,14,0
+2024-01-28,10:01,Avinashi Road,10.984630599727833,77.0548632763039,Two-Wheeler,Clear,State Highway,Serious,Sunday,January,10,0
+2024-12-10,21:51,Periyanaickenpalayam,11.037220026560805,76.87110672722369,Pedestrian,Clear,National Highway,Serious,Tuesday,December,21,0
+2024-11-30,22:53,Trichy Road,11.08529342691183,76.87684491219579,Two-Wheeler,Clear,State Highway,Fatal,Saturday,November,22,1
+2024-11-26,19:05,Thudiyalur,11.048191627294521,77.00910781605766,Two-Wheeler,Clear,National Highway,Minor,Tuesday,November,19,0
+2024-02-20,12:15,Race Course Road,10.943031713418922,76.92100262719704,Car/SUV,Clear,State Highway,Fatal,Tuesday,February,12,1
+2024-02-01,13:33,Periyanaickenpalayam,10.975478808395557,76.94598719667917,Truck,Clear,State Highway,Serious,Thursday,February,13,0
+2024-07-25,02:47,Race Course Road,11.059077037188963,76.9063533236375,Two-Wheeler,Clear,State Highway,Serious,Thursday,July,2,0
+2024-06-22,10:49,Cross Cut Road,11.108760673655363,76.95701291435455,Car/SUV,Clear,National Highway,Minor,Saturday,June,10,0
+2024-02-25,08:40,Karamadai,11.083416149159069,76.94823349734949,Bus,Clear,City Roads,Serious,Sunday,February,8,0
+2024-05-07,08:12,Singanallur,11.051421458727866,76.87043909840415,Two-Wheeler,Clear,State Highway,Fatal,Tuesday,May,8,1
+2024-04-08,22:22,Trichy Road,11.063716926443957,76.99469714282098,Two-Wheeler,Rain,Village Roads,Serious,Monday,April,22,0
+2024-04-07,20:52,Karamadai,11.0759945327406,77.00574722822591,Bus,Clear,State Highway,Fatal,Sunday,April,20,1
+2024-10-01,06:09,Avinashi Road,11.076751011793228,76.9320311135883,Pedestrian,Cloudy,State Highway,Minor,Tuesday,October,6,0
+2024-08-17,09:38,Avinashi Road,11.085706256797948,77.00499148743054,Two-Wheeler,Rain,National Highway,Fatal,Saturday,August,9,1
+2024-03-12,08:04,Race Course Road,11.041168475686325,77.02695462898373,Bus,Cloudy,Village Roads,Minor,Tuesday,March,8,0
+2024-08-04,08:31,Avinashi Road,10.973291443053927,76.93513486556675,Two-Wheeler,Clear,State Highway,Minor,Sunday,August,8,0
+2024-04-03,14:48,Pollachi Road,11.066650860366511,76.85794747227818,Car/SUV,Clear,State Highway,Minor,Wednesday,April,14,0
+2024-05-22,17:59,Peelamedu,11.050211290471092,76.87873654338881,Car/SUV,Clear,Village Roads,Fatal,Wednesday,May,17,1
+2024-08-24,23:40,Karamadai,10.942619310804146,77.03922739512991,Car/SUV,Fog,State Highway,Fatal,Saturday,August,23,1
+2024-05-07,22:55,Karamadai,10.956696844560376,76.92122207251533,Two-Wheeler,Clear,State Highway,Serious,Tuesday,May,22,0
+2024-02-08,22:09,Singanallur,11.037949801451244,77.00553520556724,Bus,Clear,State Highway,Fatal,Thursday,February,22,1
+2024-08-14,13:28,Brookefields,10.936980745115106,76.95275184746586,Two-Wheeler,Cloudy,City Roads,Serious,Wednesday,August,13,0
+2024-10-08,16:37,Race Course Road,10.999996872387907,76.86944743423841,Two-Wheeler,Clear,State Highway,Minor,Tuesday,October,16,0
+2024-02-20,04:04,Avinashi Road,11.115553447076268,76.96548570807133,Auto-Rickshaw,Clear,National Highway,Fatal,Tuesday,February,4,1
+2024-01-26,10:02,Singanallur,10.977530378679512,76.90425872180697,Two-Wheeler,Fog,National Highway,Minor,Friday,January,10,0
+2024-11-29,02:04,Gandhipuram,10.958686588270709,77.04580368481535,Two-Wheeler,Fog,State Highway,Minor,Friday,November,2,0
+2024-10-03,15:39,Cross Cut Road,10.926209867225976,76.88385115203677,Auto-Rickshaw,Clear,State Highway,Minor,Thursday,October,15,0
+2024-01-08,16:29,Karamadai,10.920426119135003,77.01988533793559,Bus,Clear,State Highway,Fatal,Monday,January,16,1
+2024-02-17,17:57,Periyanaickenpalayam,11.092981221396935,77.02411250661815,Two-Wheeler,Clear,City Roads,Minor,Saturday,February,17,0
+2024-05-01,04:41,Sathy Road,10.988208774967385,76.88991781912817,Two-Wheeler,Fog,State Highway,Minor,Wednesday,May,4,0
+2024-03-26,08:30,Periyanaickenpalayam,10.948521093020908,76.85941322553006,Car/SUV,Rain,State Highway,Serious,Tuesday,March,8,0
+2024-07-27,15:28,Karamadai,11.082389737682732,76.87590302421039,Two-Wheeler,Clear,State Highway,Serious,Saturday,July,15,0
+2024-09-05,07:45,Karamadai,11.095691494130312,76.91462893074177,Car/SUV,Rain,State Highway,Minor,Thursday,September,7,0
+2024-09-03,08:11,Periyanaickenpalayam,10.923194001553679,76.96273076661444,Bus,Clear,State Highway,Serious,Tuesday,September,8,0
+2024-04-19,05:28,Karamadai,10.929533117249212,76.93396990042991,Two-Wheeler,Clear,State Highway,Serious,Friday,April,5,0
+2024-07-24,23:33,Avinashi Road,11.002924092510296,76.87131705996899,Two-Wheeler,Rain,State Highway,Minor,Wednesday,July,23,0
+2024-01-31,16:23,Cross Cut Road,11.040312584308818,77.0085178093958,Truck,Clear,National Highway,Minor,Wednesday,January,16,0
+2024-03-25,22:26,Mettupalayam Road,10.940937606564136,76.99127662835308,Two-Wheeler,Clear,State Highway,Minor,Monday,March,22,0
+2024-07-13,20:38,Mettupalayam Road,10.96161912774796,76.88649929546216,Two-Wheeler,Fog,State Highway,Serious,Saturday,July,20,0
+2024-01-02,05:41,Mettupalayam Road,10.968364428200815,76.92741739793112,Two-Wheeler,Clear,City Roads,Fatal,Tuesday,January,5,1
+2024-07-18,10:06,Cross Cut Road,10.984864842797645,76.89913448665502,Two-Wheeler,Cloudy,National Highway,Minor,Thursday,July,10,0
+2024-05-15,16:18,Trichy Road,10.987848195316454,76.86268896908265,Auto-Rickshaw,Clear,National Highway,Minor,Wednesday,May,16,0
+2024-08-20,11:58,Race Course Road,10.926135271671555,76.99080882615492,Two-Wheeler,Clear,National Highway,Serious,Tuesday,August,11,0
+2024-05-26,15:21,Sathy Road,11.092342729432914,76.89903329991408,Car/SUV,Clear,State Highway,Serious,Sunday,May,15,0
+2024-08-04,05:09,Gandhipuram,10.970298247111318,76.99514847272597,Two-Wheeler,Clear,National Highway,Minor,Sunday,August,5,0
+2024-12-22,22:41,Brookefields,10.947035674758864,77.02310022823033,Two-Wheeler,Rain,National Highway,Serious,Sunday,December,22,0
+2024-10-11,19:08,Sathy Road,11.054827116468095,77.01810236518811,Two-Wheeler,Rain,State Highway,Minor,Friday,October,19,0
+2024-12-04,15:19,Peelamedu,11.019877488547994,76.98400243785163,Car/SUV,Clear,City Roads,Serious,Wednesday,December,15,0
+2024-09-06,17:50,Trichy Road,11.050697178030225,76.99908208664066,Two-Wheeler,Clear,State Highway,Minor,Friday,September,17,0
+2024-03-20,09:42,Sathy Road,11.058080983463558,77.0352019760233,Two-Wheeler,Clear,State Highway,Minor,Wednesday,March,9,0
+2024-04-07,20:43,Karamadai,11.10212641969065,76.93392367780558,Two-Wheeler,Rain,National Highway,Fatal,Sunday,April,20,1
+2024-05-31,21:41,Pollachi Road,11.004365341292303,76.91746485018132,Two-Wheeler,Cloudy,State Highway,Serious,Friday,May,21,0
+2024-04-21,20:23,Avinashi Road,11.00822712796129,76.86628305123777,Auto-Rickshaw,Rain,State Highway,Minor,Sunday,April,20,0
+2024-01-30,02:11,Karanampettai,11.085119394820577,76.85673314654926,Car/SUV,Clear,State Highway,Fatal,Tuesday,January,2,1
+2024-10-23,22:49,Karamadai,10.938986168990523,77.0102819390437,Car/SUV,Fog,National Highway,Serious,Wednesday,October,22,0
+2024-10-04,12:08,Avinashi Road,10.937978371878941,77.00922284769078,Bus,Rain,State Highway,Minor,Friday,October,12,0
+2024-02-01,07:54,Thudiyalur,11.038914508762442,77.04156411046043,Truck,Clear,National Highway,Minor,Thursday,February,7,0
+2024-06-09,20:49,Cross Cut Road,11.073231251553278,76.93072894069665,Pedestrian,Clear,State Highway,Fatal,Sunday,June,20,1
+2024-01-30,17:56,Peelamedu,11.106276698788804,76.9035080646157,Truck,Clear,City Roads,Fatal,Tuesday,January,17,1
+2024-01-26,17:21,Periyanaickenpalayam,11.0815220456041,76.874077286017,Two-Wheeler,Clear,City Roads,Serious,Friday,January,17,0
+2024-10-26,23:08,Race Course Road,10.925193887441315,76.94013654610507,Car/SUV,Clear,State Highway,Fatal,Saturday,October,23,1
+2024-09-01,15:10,Karanampettai,10.937882216750154,77.05365812499308,Car/SUV,Rain,National Highway,Minor,Sunday,September,15,0
+2024-09-14,08:49,Gandhipuram,11.042785223230808,76.92322332848984,Auto-Rickshaw,Clear,State Highway,Minor,Saturday,September,8,0
+2024-09-28,15:46,Periyanaickenpalayam,11.090973894830624,76.89423036395306,Car/SUV,Clear,State Highway,Minor,Saturday,September,15,0
+2024-03-21,13:23,Trichy Road,11.09899715410715,76.98958989109869,Two-Wheeler,Clear,National Highway,Serious,Thursday,March,13,0
+2024-01-30,18:28,Avinashi Road,10.94820650947146,76.89991357039025,Two-Wheeler,Clear,State Highway,Fatal,Tuesday,January,18,1
+2024-09-17,17:50,Brookefields,10.975224597543722,77.03225721151918,Two-Wheeler,Clear,State Highway,Minor,Tuesday,September,17,0
+2024-02-11,14:15,Thudiyalur,11.00510358201558,77.01518483303097,Two-Wheeler,Clear,State Highway,Minor,Sunday,February,14,0
+2024-04-05,10:57,Race Course Road,11.017979323343026,77.02189013328568,Auto-Rickshaw,Clear,State Highway,Fatal,Friday,April,10,1
+2024-02-05,19:43,Avinashi Road,11.063310378823418,76.88937657749058,Truck,Clear,State Highway,Fatal,Monday,February,19,1
+2024-10-31,22:29,Karamadai,10.936658847788417,76.88920945101381,Two-Wheeler,Clear,State Highway,Minor,Thursday,October,22,0
+2024-02-04,19:32,Periyanaickenpalayam,11.046218594187106,76.93893600199297,Pedestrian,Clear,State Highway,Serious,Sunday,February,19,0
+2024-12-11,15:52,Race Course Road,10.98372150506252,76.8773367657179,Car/SUV,Clear,State Highway,Serious,Wednesday,December,15,0
+2024-04-30,08:08,Periyanaickenpalayam,10.944354492835675,76.92122829323213,Truck,Clear,National Highway,Fatal,Tuesday,April,8,1
+2024-07-25,18:41,Karamadai,11.086519018342928,76.9682108234447,Pedestrian,Rain,State Highway,Serious,Thursday,July,18,0
+2024-03-02,13:35,Race Course Road,11.004621692183072,76.89370950719218,Pedestrian,Clear,State Highway,Serious,Saturday,March,13,0
+2024-10-18,23:54,Sathy Road,10.999949967743783,76.89722386307467,Two-Wheeler,Rain,State Highway,Serious,Friday,October,23,0
+2024-05-06,15:18,Singanallur,11.070606632767003,76.96414053068617,Truck,Clear,State Highway,Minor,Monday,May,15,0
+2024-10-23,06:17,Thudiyalur,10.965863212923427,77.04358464559894,Two-Wheeler,Fog,State Highway,Serious,Wednesday,October,6,0
+2024-10-31,14:09,Sathy Road,11.078629043140506,76.87996079227985,Bus,Clear,State Highway,Minor,Thursday,October,14,0
+2024-01-21,18:58,Brookefields,10.985064013956126,76.89855599733872,Auto-Rickshaw,Rain,State Highway,Fatal,Sunday,January,18,1
+2024-11-13,10:56,Cross Cut Road,11.017804545645806,76.9271152651837,Two-Wheeler,Clear,State Highway,Fatal,Wednesday,November,10,1
+2024-02-11,09:26,Mettupalayam Road,10.933846772339963,76.89052431155292,Pedestrian,Clear,State Highway,Minor,Sunday,February,9,0
+2024-08-02,04:23,Karamadai,10.99128727148056,76.936227897951,Two-Wheeler,Rain,State Highway,Fatal,Friday,August,4,1
+2024-12-02,09:23,Thudiyalur,11.067769042502356,76.91904804427024,Bus,Clear,State Highway,Fatal,Monday,December,9,1
+2024-10-25,10:59,Karanampettai,10.988928681286335,76.93363733191008,Truck,Clear,State Highway,Minor,Friday,October,10,0
+2024-10-16,08:41,Singanallur,11.049799050982969,76.94755518634929,Two-Wheeler,Clear,State Highway,Minor,Wednesday,October,8,0
+2024-09-24,09:08,Singanallur,10.947122242905508,76.86900325681263,Bus,Clear,State Highway,Serious,Tuesday,September,9,0
+2024-06-10,03:44,Cross Cut Road,11.067501434209422,77.01881697832115,Bus,Clear,National Highway,Minor,Monday,June,3,0
+2024-05-13,20:30,Karamadai,11.001144441871666,76.98578899910436,Two-Wheeler,Clear,State Highway,Minor,Monday,May,20,0
+2024-04-14,12:57,Pollachi Road,10.962436400786034,76.92959599220147,Car/SUV,Clear,State Highway,Fatal,Sunday,April,12,1
+2024-12-08,02:13,Race Course Road,11.077153735728297,76.869266253706,Bus,Rain,State Highway,Serious,Sunday,December,2,0
+2024-06-09,20:46,Trichy Road,10.999481883749395,76.89951217103466,Truck,Clear,State Highway,Minor,Sunday,June,20,0
+2024-05-02,16:07,Karamadai,10.998661863878466,76.91610684972933,Auto-Rickshaw,Cloudy,National Highway,Fatal,Thursday,May,16,1
+2024-05-15,18:19,Periyanaickenpalayam,11.008550612783194,76.97557381929691,Two-Wheeler,Clear,State Highway,Fatal,Wednesday,May,18,1
+2024-07-21,06:26,Mettupalayam Road,11.087278095883363,77.05242049858343,Truck,Clear,State Highway,Minor,Sunday,July,6,0
+2024-03-08,17:29,Thudiyalur,11.075721469274459,76.87616271797498,Auto-Rickshaw,Fog,National Highway,Serious,Friday,March,17,0
+2024-12-09,03:38,Cross Cut Road,10.989154873931021,76.96303630605826,Car/SUV,Rain,State Highway,Minor,Monday,December,3,0
+2024-11-26,17:32,Peelamedu,10.922752585402993,77.05390625750158,Car/SUV,Rain,State Highway,Fatal,Tuesday,November,17,1
+2024-06-02,17:09,Singanallur,10.945916861179697,77.02589300674379,Two-Wheeler,Clear,National Highway,Minor,Sunday,June,17,0
+2024-08-22,09:39,Sathy Road,10.918789742692747,76.89009182209364,Pedestrian,Fog,State Highway,Fatal,Thursday,August,9,1
+2024-06-10,11:26,Peelamedu,11.078049373134,77.04760694087557,Auto-Rickshaw,Clear,City Roads,Fatal,Monday,June,11,1
+2024-02-07,08:05,Peelamedu,11.105528568061562,76.97577342903071,Car/SUV,Clear,State Highway,Fatal,Wednesday,February,8,1
+2024-01-05,16:04,Karanampettai,10.933755642906284,77.05208317897151,Two-Wheeler,Clear,National Highway,Serious,Friday,January,16,0
+2024-08-22,23:32,Mettupalayam Road,10.979760914375857,76.9950630731889,Car/SUV,Clear,State Highway,Minor,Thursday,August,23,0
+2024-11-14,20:35,Trichy Road,11.113188984877427,76.99138010447703,Two-Wheeler,Clear,State Highway,Serious,Thursday,November,20,0
+2024-10-15,03:02,Trichy Road,10.949664936342943,77.05027337056906,Two-Wheeler,Clear,State Highway,Fatal,Tuesday,October,3,1
+2024-02-21,16:16,Avinashi Road,10.929093665697078,76.9945441488101,Two-Wheeler,Fog,State Highway,Serious,Wednesday,February,16,0
+2024-02-07,19:50,Trichy Road,11.068638477011165,76.92220930946965,Car/SUV,Clear,State Highway,Minor,Wednesday,February,19,0
+2024-10-02,01:46,Race Course Road,11.048835234455048,76.9828706903364,Two-Wheeler,Rain,State Highway,Fatal,Wednesday,October,1,1
+2024-04-19,15:49,Periyanaickenpalayam,11.045093150888311,77.03259340643827,Auto-Rickshaw,Fog,Village Roads,Serious,Friday,April,15,0
+2024-09-16,16:08,Singanallur,11.09730222631478,76.91939339502159,Two-Wheeler,Clear,State Highway,Minor,Monday,September,16,0
+2024-05-15,04:21,Mettupalayam Road,10.928361965909202,77.02611084249372,Two-Wheeler,Clear,Village Roads,Fatal,Wednesday,May,4,1
+2024-03-08,18:53,Race Course Road,11.043121512430977,76.95222607579754,Truck,Clear,State Highway,Minor,Friday,March,18,0
+2024-06-27,19:44,Brookefields,11.059473903404282,76.92282104362495,Auto-Rickshaw,Clear,State Highway,Serious,Thursday,June,19,0
+2024-02-05,12:51,Sathy Road,11.048872326355895,76.97750666443125,Bus,Clear,State Highway,Minor,Monday,February,12,0
+2024-05-05,08:49,Brookefields,11.020755672640593,76.97280738288299,Two-Wheeler,Clear,National Highway,Minor,Sunday,May,8,0
+2024-07-08,21:18,Peelamedu,10.97594488497273,76.93227427992676,Two-Wheeler,Rain,State Highway,Minor,Monday,July,21,0
+2024-05-25,06:56,Race Course Road,10.997200563606295,76.98391839095028,Car/SUV,Clear,State Highway,Serious,Saturday,May,6,0
+2024-03-21,02:32,Sathy Road,11.052974131484017,76.90228509547623,Auto-Rickshaw,Clear,National Highway,Minor,Thursday,March,2,0
+2024-08-12,14:30,Race Course Road,11.027522085645119,76.9732937094817,Truck,Rain,City Roads,Serious,Monday,August,14,0
+2024-10-05,11:12,Karamadai,10.977664604594635,77.05347617287232,Bus,Rain,State Highway,Fatal,Saturday,October,11,1
+2024-12-26,09:55,Trichy Road,11.06533950040593,76.90232118089976,Auto-Rickshaw,Rain,State Highway,Minor,Thursday,December,9,0
+2024-06-03,16:07,Sathy Road,11.098646170640226,76.97906973491749,Pedestrian,Fog,City Roads,Minor,Monday,June,16,0
+2024-11-09,19:56,Race Course Road,10.918380446700757,77.0351558852733,Two-Wheeler,Cloudy,City Roads,Minor,Saturday,November,19,0
+2024-11-30,13:57,Singanallur,10.972756148952556,76.91756972573458,Auto-Rickshaw,Clear,City Roads,Serious,Saturday,November,13,0
+2024-09-27,22:11,Karanampettai,11.022358347121479,77.0033826567836,Two-Wheeler,Clear,National Highway,Serious,Friday,September,22,0
+2024-01-05,13:23,Thudiyalur,11.100890118329021,77.00724914871982,Two-Wheeler,Clear,State Highway,Fatal,Friday,January,13,1
+2024-12-07,23:17,Periyanaickenpalayam,11.05685901277652,76.97975324569849,Two-Wheeler,Clear,National Highway,Fatal,Saturday,December,23,1
+2024-10-10,20:27,Mettupalayam Road,11.006037810140668,76.86778460331195,Two-Wheeler,Clear,State Highway,Serious,Thursday,October,20,0
+2024-06-02,04:52,Karamadai,10.95782671427664,76.93070472569872,Two-Wheeler,Rain,State Highway,Minor,Sunday,June,4,0
+2024-12-05,07:20,Singanallur,11.025685058200896,76.91512294607462,Auto-Rickshaw,Clear,State Highway,Serious,Thursday,December,7,0
+2024-02-23,07:42,Sathy Road,11.074468315795343,76.8861341170784,Truck,Clear,State Highway,Serious,Friday,February,7,0
+2024-03-09,10:38,Cross Cut Road,11.047207417479372,76.89667706601924,Pedestrian,Clear,State Highway,Minor,Saturday,March,10,0
+2024-05-15,18:44,Peelamedu,11.056294193114713,76.86338134311148,Car/SUV,Clear,State Highway,Fatal,Wednesday,May,18,1
+2024-02-29,13:02,Trichy Road,11.09433497930144,77.0404818279107,Two-Wheeler,Clear,State Highway,Fatal,Thursday,February,13,1
+2024-02-24,19:39,Karanampettai,11.073112618626292,76.97541503772221,Pedestrian,Clear,State Highway,Minor,Saturday,February,19,0
+2024-10-10,22:40,Singanallur,10.997701141130031,77.0449752994712,Truck,Fog,State Highway,Serious,Thursday,October,22,0
+2024-03-20,21:04,Trichy Road,10.956259150852226,77.0036511272033,Auto-Rickshaw,Clear,National Highway,Minor,Wednesday,March,21,0
+2024-05-19,19:23,Periyanaickenpalayam,10.97710628246707,76.92153797037344,Truck,Clear,State Highway,Fatal,Sunday,May,19,1
+2024-05-24,17:43,Cross Cut Road,10.924194034471263,76.91142528866162,Two-Wheeler,Clear,National Highway,Serious,Friday,May,17,0
+2024-11-05,06:09,Karanampettai,10.98369858494698,76.98452041432108,Car/SUV,Clear,State Highway,Fatal,Tuesday,November,6,1
+2024-04-17,20:50,Karamadai,11.061819736467124,77.0078987764591,Two-Wheeler,Clear,State Highway,Fatal,Wednesday,April,20,1
+2024-06-24,12:04,Mettupalayam Road,11.064810444462115,76.9599745719191,Two-Wheeler,Clear,National Highway,Fatal,Monday,June,12,1
+2024-04-14,11:23,Periyanaickenpalayam,10.942001129198774,77.05131350089147,Truck,Clear,State Highway,Minor,Sunday,April,11,0
+2024-12-17,11:02,Periyanaickenpalayam,11.11518479390858,76.98540928501592,Two-Wheeler,Clear,State Highway,Minor,Tuesday,December,11,0
+2024-11-20,17:28,Trichy Road,10.973585571893654,76.91349102089188,Truck,Clear,State Highway,Serious,Wednesday,November,17,0
+2024-05-15,22:28,Race Course Road,10.935363913571345,76.86053866645844,Auto-Rickshaw,Clear,National Highway,Minor,Wednesday,May,22,0
+2024-09-15,20:08,Karanampettai,11.02715717027225,77.02518696910869,Auto-Rickshaw,Clear,State Highway,Minor,Sunday,September,20,0
+2024-09-07,16:20,Thudiyalur,11.021067173023088,76.92205405452061,Two-Wheeler,Clear,State Highway,Minor,Saturday,September,16,0
+2024-05-08,15:07,Cross Cut Road,11.068209264856108,76.9042497967449,Pedestrian,Rain,National Highway,Fatal,Wednesday,May,15,1
+2024-01-27,01:31,Singanallur,10.948805468045803,76.96366235042522,Pedestrian,Clear,State Highway,Minor,Saturday,January,1,0
+2024-02-17,17:07,Karanampettai,10.922378245059132,77.03712641154182,Two-Wheeler,Rain,State Highway,Serious,Saturday,February,17,0
+2024-11-20,10:45,Pollachi Road,11.076119739848275,76.98880120381769,Car/SUV,Clear,State Highway,Serious,Wednesday,November,10,0
+2024-08-04,14:18,Gandhipuram,11.035300720349982,76.9054676099322,Auto-Rickshaw,Rain,City Roads,Minor,Sunday,August,14,0
+2024-05-21,19:12,Avinashi Road,10.965067955828054,76.99326996774714,Pedestrian,Rain,National Highway,Serious,Tuesday,May,19,0
+2024-01-23,06:28,Cross Cut Road,11.07163155742875,76.99970044394499,Two-Wheeler,Clear,City Roads,Fatal,Tuesday,January,6,1
+2024-01-02,08:28,Brookefields,11.06210184927992,76.97741263953552,Car/SUV,Clear,State Highway,Fatal,Tuesday,January,8,1
+2024-06-19,23:54,Karanampettai,11.114190940048209,76.93209718411188,Auto-Rickshaw,Clear,City Roads,Serious,Wednesday,June,23,0
+2024-03-07,23:22,Peelamedu,10.938888381248692,76.92012739821604,Two-Wheeler,Clear,State Highway,Minor,Thursday,March,23,0
+2024-11-22,20:34,Pollachi Road,10.92878914772508,76.94427217802671,Truck,Clear,State Highway,Serious,Friday,November,20,0
+2024-05-14,10:54,Race Course Road,10.99139577360713,76.85700853195281,Two-Wheeler,Clear,State Highway,Minor,Tuesday,May,10,0
+2024-03-23,08:59,Thudiyalur,11.042197906463592,77.02977334797924,Pedestrian,Rain,Village Roads,Serious,Saturday,March,8,0
+2024-08-14,18:50,Mettupalayam Road,10.98769466918083,76.86979698399553,Two-Wheeler,Rain,State Highway,Fatal,Wednesday,August,18,1
+2024-10-09,09:07,Cross Cut Road,10.926346574587464,76.89429308945552,Auto-Rickshaw,Clear,State Highway,Fatal,Wednesday,October,9,1
+2024-12-27,21:15,Peelamedu,11.046992483874176,76.98267339185477,Two-Wheeler,Clear,City Roads,Fatal,Friday,December,21,1
+2024-08-06,18:23,Brookefields,10.941749961079266,76.88410640217404,Truck,Clear,State Highway,Serious,Tuesday,August,18,0
+2024-10-14,16:29,Thudiyalur,10.976392222530299,76.89664400255316,Car/SUV,Rain,State Highway,Fatal,Monday,October,16,1
+2024-01-05,20:08,Trichy Road,11.064171739156862,76.8741518784846,Auto-Rickshaw,Clear,State Highway,Serious,Friday,January,20,0
+2024-02-27,15:04,Gandhipuram,11.00742943211046,76.97432613024242,Two-Wheeler,Clear,State Highway,Minor,Tuesday,February,15,0
+2024-02-08,11:46,Cross Cut Road,11.113390112501527,77.02204417572503,Two-Wheeler,Clear,City Roads,Serious,Thursday,February,11,0
+2024-12-19,13:49,Karanampettai,11.077877512421843,77.0421625380462,Two-Wheeler,Clear,State Highway,Fatal,Thursday,December,13,1
+2024-03-17,14:04,Singanallur,11.114600015779724,76.90306202563558,Two-Wheeler,Clear,State Highway,Minor,Sunday,March,14,0
+2024-10-06,07:41,Race Course Road,11.029919445315967,76.87143290272093,Two-Wheeler,Clear,State Highway,Minor,Sunday,October,7,0
+2024-01-19,03:43,Peelamedu,11.095667779579072,77.00079782095413,Two-Wheeler,Clear,State Highway,Fatal,Friday,January,3,1
+2024-07-08,15:56,Singanallur,11.042348870363117,76.91809259396219,Two-Wheeler,Clear,State Highway,Fatal,Monday,July,15,1
+2024-10-25,20:40,Gandhipuram,11.023457731301331,77.00013475315204,Two-Wheeler,Fog,State Highway,Minor,Friday,October,20,0
+2024-10-09,15:27,Periyanaickenpalayam,11.035909782925007,76.90478499164584,Truck,Clear,State Highway,Minor,Wednesday,October,15,0
+2024-03-16,15:53,Gandhipuram,10.986867427008153,76.89108710097946,Pedestrian,Clear,State Highway,Minor,Saturday,March,15,0
+2024-08-08,06:19,Race Course Road,10.973707098989072,76.90559388609991,Auto-Rickshaw,Cloudy,State Highway,Serious,Thursday,August,6,0
+2024-03-06,07:59,Brookefields,11.07375785256487,76.91287057800355,Car/SUV,Clear,State Highway,Fatal,Wednesday,March,7,1
+2024-01-22,19:33,Cross Cut Road,11.059770893640467,76.94545423847396,Two-Wheeler,Rain,Village Roads,Minor,Monday,January,19,0
+2024-06-06,21:16,Avinashi Road,11.051286760407644,76.98292075442284,Car/SUV,Clear,State Highway,Fatal,Thursday,June,21,1
+2024-07-05,08:17,Karanampettai,11.059670195772746,76.91017215695146,Two-Wheeler,Clear,National Highway,Minor,Friday,July,8,0
+2024-01-21,07:39,Mettupalayam Road,11.0207333294891,77.0120577850836,Car/SUV,Rain,State Highway,Serious,Sunday,January,7,0
+2024-07-02,17:41,Karamadai,10.966326666261594,76.87180319437833,Auto-Rickshaw,Rain,City Roads,Serious,Tuesday,July,17,0
+2024-04-17,08:09,Thudiyalur,10.98236939261623,77.05031104009089,Truck,Clear,City Roads,Serious,Wednesday,April,8,0
+2024-12-15,08:46,Pollachi Road,11.03327380917155,76.93544889463442,Truck,Clear,National Highway,Minor,Sunday,December,8,0
+2024-05-07,22:53,Mettupalayam Road,11.081368544594271,76.88935320762204,Two-Wheeler,Clear,State Highway,Minor,Tuesday,May,22,0
+2024-12-07,21:52,Pollachi Road,10.989053506562575,76.94407521416946,Two-Wheeler,Clear,State Highway,Fatal,Saturday,December,21,1
+2024-02-22,18:02,Brookefields,10.936397566346159,76.95685851085393,Bus,Clear,State Highway,Minor,Thursday,February,18,0
+2024-06-30,23:16,Cross Cut Road,11.059128084149497,77.0027856209061,Two-Wheeler,Clear,State Highway,Minor,Sunday,June,23,0
+2024-10-13,17:26,Singanallur,11.082487525886377,77.00786489288193,Two-Wheeler,Rain,City Roads,Fatal,Sunday,October,17,1
+2024-07-27,15:31,Trichy Road,10.933189432686937,77.01972076157593,Pedestrian,Rain,National Highway,Minor,Saturday,July,15,0
+2024-11-13,23:18,Peelamedu,10.929238734508882,77.01451172023117,Two-Wheeler,Clear,State Highway,Serious,Wednesday,November,23,0
+2024-03-20,16:30,Periyanaickenpalayam,11.094501859369968,76.85976221542646,Two-Wheeler,Clear,State Highway,Fatal,Wednesday,March,16,1
+2024-05-01,11:25,Periyanaickenpalayam,11.0120506143075,76.93208386233358,Two-Wheeler,Clear,Village Roads,Minor,Wednesday,May,11,0
+2024-03-24,09:44,Karamadai,11.00603281740855,77.02660844206099,Truck,Clear,State Highway,Minor,Sunday,March,9,0
+2024-03-31,03:26,Peelamedu,10.99065884326223,77.00757166448005,Car/SUV,Clear,State Highway,Serious,Sunday,March,3,0
+2024-07-30,12:21,Peelamedu,11.02205112063103,77.04010649980937,Auto-Rickshaw,Fog,State Highway,Serious,Tuesday,July,12,0
+2024-01-13,16:55,Gandhipuram,11.034447891579521,76.97483667231977,Two-Wheeler,Clear,State Highway,Fatal,Saturday,January,16,1
+2024-04-01,20:55,Sathy Road,11.02058899988357,76.8863597417844,Car/SUV,Cloudy,State Highway,Minor,Monday,April,20,0
+2024-06-19,10:08,Cross Cut Road,10.995756495034717,77.001129647028,Car/SUV,Rain,Village Roads,Serious,Wednesday,June,10,0
+2024-07-29,20:35,Mettupalayam Road,10.96953874191091,76.9072583444304,Car/SUV,Clear,City Roads,Minor,Monday,July,20,0
+2024-12-08,06:29,Peelamedu,11.016565461141559,76.94853024694002,Two-Wheeler,Clear,State Highway,Serious,Sunday,December,6,0
+2024-05-07,07:15,Periyanaickenpalayam,11.00148443899827,76.94652062117342,Auto-Rickshaw,Clear,State Highway,Fatal,Tuesday,May,7,1
+2024-05-16,06:18,Trichy Road,11.004815990985957,76.93082937698684,Two-Wheeler,Clear,State Highway,Minor,Thursday,May,6,0
+2024-03-22,23:26,Peelamedu,11.103007121532887,76.97700507133132,Auto-Rickshaw,Clear,State Highway,Minor,Friday,March,23,0
+2024-12-25,09:52,Trichy Road,11.014708213334854,76.8701879299361,Two-Wheeler,Clear,State Highway,Serious,Wednesday,December,9,0
+2024-02-25,11:46,Cross Cut Road,11.11145449663538,76.88313126985261,Two-Wheeler,Clear,National Highway,Fatal,Sunday,February,11,1
+2024-07-14,09:31,Pollachi Road,11.081562366060679,76.94965169624643,Two-Wheeler,Clear,City Roads,Serious,Sunday,July,9,0
+2024-01-20,22:31,Trichy Road,10.945669236269275,76.886744891149,Two-Wheeler,Fog,State Highway,Serious,Saturday,January,22,0
+2024-08-28,22:01,Cross Cut Road,10.942224795575088,76.89372516291765,Truck,Clear,National Highway,Minor,Wednesday,August,22,0
+2024-04-23,07:32,Race Course Road,11.059030113532712,76.85836685444959,Truck,Clear,State Highway,Fatal,Tuesday,April,7,1
+2024-04-12,12:13,Mettupalayam Road,10.94267703759675,76.95593996173496,Truck,Clear,State Highway,Minor,Friday,April,12,0
+2024-08-23,15:03,Periyanaickenpalayam,11.057704936959126,77.00086907518842,Two-Wheeler,Clear,Village Roads,Serious,Friday,August,15,0
+2024-06-28,11:56,Mettupalayam Road,11.08945433151892,76.95409074353658,Two-Wheeler,Cloudy,Village Roads,Serious,Friday,June,11,0
+2024-06-05,20:30,Sathy Road,10.940411631534205,77.04093821425411,Two-Wheeler,Clear,State Highway,Fatal,Wednesday,June,20,1
+2024-04-26,09:54,Pollachi Road,10.959328507792105,77.0438569970528,Two-Wheeler,Rain,City Roads,Minor,Friday,April,9,0
+2024-04-24,06:56,Mettupalayam Road,11.011471112347554,77.04989852734535,Car/SUV,Clear,City Roads,Minor,Wednesday,April,6,0
+2024-01-13,10:48,Avinashi Road,11.06609926120764,76.93042897953993,Bus,Rain,State Highway,Minor,Saturday,January,10,0
+2024-12-03,12:25,Mettupalayam Road,11.105613912211398,76.95371022286983,Two-Wheeler,Rain,State Highway,Fatal,Tuesday,December,12,1
+2024-04-08,04:12,Singanallur,10.990666411926892,76.98400974437523,Two-Wheeler,Clear,City Roads,Fatal,Monday,April,4,1
+2024-07-23,10:04,Peelamedu,11.107164350555488,76.97346180108671,Two-Wheeler,Clear,State Highway,Minor,Tuesday,July,10,0
+2024-06-17,13:48,Trichy Road,11.037120042747732,76.93755751698762,Two-Wheeler,Clear,State Highway,Fatal,Monday,June,13,1
+2024-05-22,17:43,Thudiyalur,10.99852397182932,76.86356537953685,Truck,Clear,City Roads,Fatal,Wednesday,May,17,1
+2024-02-05,15:06,Thudiyalur,10.940973285617808,77.04012064969014,Car/SUV,Clear,National Highway,Minor,Monday,February,15,0
+2024-05-22,13:35,Karanampettai,11.031152950885282,76.93276520229001,Two-Wheeler,Clear,National Highway,Serious,Wednesday,May,13,0
+2024-06-28,21:12,Periyanaickenpalayam,10.924856428317394,76.9689217184102,Two-Wheeler,Rain,City Roads,Fatal,Friday,June,21,1
+2024-11-24,16:32,Periyanaickenpalayam,10.947460902139161,76.89464564006768,Two-Wheeler,Clear,State Highway,Serious,Sunday,November,16,0
+2024-09-17,00:08,Cross Cut Road,10.991093470837063,76.94305958907171,Two-Wheeler,Clear,State Highway,Minor,Tuesday,September,0,0
+2024-07-23,19:33,Gandhipuram,11.115004020223706,76.9068516833831,Two-Wheeler,Fog,State Highway,Serious,Tuesday,July,19,0
+2024-12-13,14:57,Avinashi Road,10.977452016541333,77.03841719905074,Bus,Clear,City Roads,Minor,Friday,December,14,0
+2024-10-01,16:59,Mettupalayam Road,11.013985108107295,77.00024905869451,Two-Wheeler,Clear,City Roads,Minor,Tuesday,October,16,0
+2024-06-18,15:25,Pollachi Road,11.075040740214094,76.95772167268564,Two-Wheeler,Rain,City Roads,Serious,Tuesday,June,15,0
+2024-01-15,23:53,Trichy Road,10.945227961146522,76.95352436862436,Car/SUV,Clear,State Highway,Fatal,Monday,January,23,1
+2024-02-29,10:32,Pollachi Road,11.034724848827357,76.99349787902858,Truck,Clear,National Highway,Minor,Thursday,February,10,0
+2024-05-13,20:31,Avinashi Road,10.926530209316047,76.99509108240858,Two-Wheeler,Clear,State Highway,Minor,Monday,May,20,0
+2024-04-01,19:30,Trichy Road,11.095650585676974,76.98598126694162,Car/SUV,Clear,State Highway,Fatal,Monday,April,19,1
+2024-10-24,19:21,Singanallur,11.094611441247883,77.04110375126606,Two-Wheeler,Clear,National Highway,Minor,Thursday,October,19,0
+2024-05-15,19:37,Singanallur,10.959916291140134,77.00293284112034,Auto-Rickshaw,Clear,State Highway,Serious,Wednesday,May,19,0
+2024-01-20,11:55,Trichy Road,11.080625013845653,76.90427057383913,Two-Wheeler,Clear,State Highway,Minor,Saturday,January,11,0
+2024-02-25,18:38,Cross Cut Road,11.014558731249103,76.86270151441316,Two-Wheeler,Clear,State Highway,Serious,Sunday,February,18,0
+2024-11-01,14:50,Karanampettai,10.94126558110049,77.01842528205128,Two-Wheeler,Clear,State Highway,Minor,Friday,November,14,0
+2024-08-10,23:36,Pollachi Road,10.986529788702077,76.98199054273748,Car/SUV,Clear,State Highway,Fatal,Saturday,August,23,1
+2024-06-25,09:37,Cross Cut Road,11.09088530718786,76.99108511975446,Two-Wheeler,Clear,National Highway,Minor,Tuesday,June,9,0
+2024-06-09,14:40,Peelamedu,11.000315030862653,76.99529428448926,Two-Wheeler,Rain,State Highway,Minor,Sunday,June,14,0
+2024-08-11,19:09,Avinashi Road,11.031411818357858,76.98486670741421,Two-Wheeler,Clear,National Highway,Fatal,Sunday,August,19,1
+2024-11-06,18:02,Brookefields,11.029952795214019,76.9080661396942,Truck,Clear,State Highway,Serious,Wednesday,November,18,0
+2024-09-18,17:07,Thudiyalur,11.09685745759282,76.94689415403644,Truck,Rain,State Highway,Serious,Wednesday,September,17,0
+2024-02-29,07:20,Singanallur,11.073069869770565,76.99201329687143,Two-Wheeler,Rain,State Highway,Minor,Thursday,February,7,0
+2024-07-16,13:44,Avinashi Road,11.01184550968775,76.90665760689886,Two-Wheeler,Clear,National Highway,Serious,Tuesday,July,13,0
+2024-10-22,08:49,Avinashi Road,11.060806699075822,76.9762298653876,Car/SUV,Clear,State Highway,Fatal,Tuesday,October,8,1
+2024-04-07,16:55,Peelamedu,11.037941942043318,77.04615564908774,Pedestrian,Clear,City Roads,Serious,Sunday,April,16,0
+2024-05-10,20:03,Gandhipuram,11.069190246299687,77.02410317998145,Car/SUV,Clear,State Highway,Fatal,Friday,May,20,1
+2024-01-23,20:13,Sathy Road,11.017752772254438,76.85826747749556,Car/SUV,Rain,State Highway,Minor,Tuesday,January,20,0
+2024-12-28,17:30,Karamadai,11.008987232914087,77.00999443710492,Bus,Clear,State Highway,Fatal,Saturday,December,17,1
+2024-08-11,16:11,Race Course Road,11.006785878269703,76.98467947814406,Bus,Clear,State Highway,Serious,Sunday,August,16,0
+2024-01-01,14:21,Trichy Road,11.00661494776753,77.03917657061866,Two-Wheeler,Clear,National Highway,Minor,Monday,January,14,0
+2024-09-23,17:49,Peelamedu,11.09006911051253,76.93533338430235,Car/SUV,Clear,State Highway,Fatal,Monday,September,17,1
+2024-10-02,20:41,Sathy Road,10.981843257309965,76.97303208572588,Auto-Rickshaw,Clear,State Highway,Serious,Wednesday,October,20,0
+2024-12-17,19:39,Gandhipuram,11.076762324238972,77.0359991299992,Car/SUV,Clear,State Highway,Serious,Tuesday,December,19,0
+2024-12-09,12:17,Periyanaickenpalayam,11.049700462483749,76.95950740877083,Auto-Rickshaw,Clear,National Highway,Minor,Monday,December,12,0
+2024-04-10,15:19,Gandhipuram,10.998725665419155,76.8935646503985,Car/SUV,Clear,Village Roads,Minor,Wednesday,April,15,0
+2024-07-05,20:13,Karamadai,10.96336445667184,76.94038897198114,Two-Wheeler,Clear,National Highway,Serious,Friday,July,20,0
+2024-08-08,19:20,Cross Cut Road,10.995879425840076,77.02174991300534,Auto-Rickshaw,Clear,State Highway,Fatal,Thursday,August,19,1
+2024-02-05,14:59,Cross Cut Road,11.024998890158265,76.90637424707984,Truck,Cloudy,City Roads,Serious,Monday,February,14,0
+2024-12-06,23:17,Gandhipuram,11.108415898416107,76.91624391319252,Car/SUV,Clear,Village Roads,Fatal,Friday,December,23,1
+2024-06-18,11:43,Sathy Road,11.094808633022154,77.04933668620168,Auto-Rickshaw,Clear,City Roads,Minor,Tuesday,June,11,0
+2024-11-15,16:52,Periyanaickenpalayam,11.063982558890245,76.98749721199073,Bus,Clear,State Highway,Minor,Friday,November,16,0
+2024-06-09,09:18,Peelamedu,11.04598330593188,76.93235772207093,Truck,Rain,State Highway,Fatal,Sunday,June,9,1
+2024-12-05,05:05,Brookefields,11.089990714665673,76.91739577330043,Car/SUV,Clear,State Highway,Serious,Thursday,December,5,0
+2024-03-04,10:41,Peelamedu,11.058241725231415,76.93812179843256,Two-Wheeler,Clear,State Highway,Minor,Monday,March,10,0
+2024-06-02,10:13,Pollachi Road,11.031198958727881,77.03108009403395,Truck,Clear,State Highway,Fatal,Sunday,June,10,1
+2024-09-16,08:17,Mettupalayam Road,11.07603175628721,77.00133041587682,Two-Wheeler,Clear,State Highway,Serious,Monday,September,8,0
+2024-06-07,23:17,Sathy Road,11.058279769809317,76.87357468787025,Pedestrian,Cloudy,National Highway,Serious,Friday,June,23,0
+2024-12-07,08:47,Race Course Road,11.029008871014653,76.98303604973049,Pedestrian,Rain,State Highway,Minor,Saturday,December,8,0
+2024-07-28,15:03,Brookefields,10.941556322270504,77.01113822297683,Bus,Clear,State Highway,Minor,Sunday,July,15,0
+2024-06-16,20:14,Karanampettai,11.028670564647246,76.92467856247161,Two-Wheeler,Rain,State Highway,Minor,Sunday,June,20,0
+2024-07-25,15:06,Gandhipuram,10.955285346667718,76.88434269634041,Two-Wheeler,Clear,National Highway,Fatal,Thursday,July,15,1
+2024-12-22,14:30,Sathy Road,11.040540810963265,77.00554601449001,Pedestrian,Rain,State Highway,Serious,Sunday,December,14,0
+2024-05-31,06:00,Karanampettai,11.032171116634629,77.04180337318822,Two-Wheeler,Rain,State Highway,Minor,Friday,May,6,0
+2024-10-10,21:26,Cross Cut Road,10.927374877198476,76.93539404393883,Pedestrian,Clear,City Roads,Minor,Thursday,October,21,0
+2024-03-06,16:30,Peelamedu,11.030848876645795,76.91742006855968,Car/SUV,Clear,National Highway,Serious,Wednesday,March,16,0
+2024-04-08,16:20,Race Course Road,10.954679174576041,77.05320509862959,Bus,Clear,State Highway,Minor,Monday,April,16,0
+2024-08-03,09:58,Singanallur,11.011967138431428,77.01907787561971,Two-Wheeler,Rain,State Highway,Serious,Saturday,August,9,0
+2024-12-06,20:36,Gandhipuram,11.096172856048739,76.8561157155169,Auto-Rickshaw,Clear,National Highway,Serious,Friday,December,20,0
+2024-07-13,11:46,Karanampettai,10.940856635287783,76.86976829899213,Auto-Rickshaw,Clear,State Highway,Minor,Saturday,July,11,0
+2024-12-12,18:58,Trichy Road,11.10403636199811,76.99506334145343,Two-Wheeler,Clear,Village Roads,Minor,Thursday,December,18,0
+2024-03-30,22:56,Thudiyalur,10.95274868028518,76.96079239775068,Two-Wheeler,Clear,State Highway,Fatal,Saturday,March,22,1
+2024-11-11,18:53,Gandhipuram,10.920594716708306,76.98670423835566,Two-Wheeler,Clear,State Highway,Minor,Monday,November,18,0
+2024-10-18,13:11,Sathy Road,11.074151409205504,77.00240844718061,Two-Wheeler,Clear,National Highway,Serious,Friday,October,13,0
+2024-06-03,22:56,Mettupalayam Road,10.96585733887805,76.8899268512255,Two-Wheeler,Clear,State Highway,Fatal,Monday,June,22,1
+2024-07-26,02:36,Race Course Road,11.05792354045945,76.93073027774453,Car/SUV,Rain,State Highway,Serious,Friday,July,2,0
+2024-10-07,16:18,Sathy Road,11.094331165748168,76.99660943932284,Auto-Rickshaw,Clear,State Highway,Fatal,Monday,October,16,1
+2024-01-01,14:34,Singanallur,11.00564589386679,76.89540410578023,Truck,Clear,State Highway,Minor,Monday,January,14,0
+2024-06-04,15:54,Singanallur,11.07818420482508,76.89219686629565,Car/SUV,Clear,State Highway,Serious,Tuesday,June,15,0
+2024-05-26,16:12,Karamadai,11.03817096422975,77.04549666229224,Car/SUV,Clear,State Highway,Minor,Sunday,May,16,0
+2024-04-17,19:10,Karamadai,10.997159573049684,76.94593215685947,Two-Wheeler,Clear,State Highway,Minor,Wednesday,April,19,0
+2024-08-08,20:16,Peelamedu,10.925796728794982,77.0186740909883,Two-Wheeler,Clear,National Highway,Fatal,Thursday,August,20,1
+2024-10-23,18:47,Race Course Road,11.08919486714281,76.89292760836025,Two-Wheeler,Clear,State Highway,Minor,Wednesday,October,18,0
+2024-11-06,10:36,Brookefields,10.921452649670774,76.86759641298937,Car/SUV,Rain,State Highway,Minor,Wednesday,November,10,0
+2024-12-01,18:11,Periyanaickenpalayam,11.00420348395781,76.89234587985453,Truck,Clear,State Highway,Fatal,Sunday,December,18,1
+2024-06-13,17:57,Singanallur,10.999787284696186,77.00763293699009,Auto-Rickshaw,Clear,State Highway,Minor,Thursday,June,17,0
+2024-08-26,13:32,Brookefields,11.088729682087752,76.90767038329682,Auto-Rickshaw,Clear,State Highway,Minor,Monday,August,13,0
+2024-08-14,10:42,Brookefields,10.980276487073318,77.03625465778055,Car/SUV,Clear,State Highway,Minor,Wednesday,August,10,0
+2024-08-14,06:30,Mettupalayam Road,10.968235558633543,76.93755848043074,Two-Wheeler,Clear,National Highway,Fatal,Wednesday,August,6,1
+2024-12-11,09:00,Gandhipuram,10.939728924828449,76.9811674759164,Two-Wheeler,Rain,State Highway,Serious,Wednesday,December,9,0
+2024-04-19,09:28,Periyanaickenpalayam,10.936666726609735,76.98068429115592,Car/SUV,Rain,National Highway,Serious,Friday,April,9,0
+2024-09-18,19:19,Mettupalayam Road,10.950431198533403,77.02947239838306,Two-Wheeler,Rain,State Highway,Serious,Wednesday,September,19,0
+2024-08-30,17:00,Pollachi Road,10.945606850586339,76.8890252265212,Two-Wheeler,Clear,National Highway,Fatal,Friday,August,17,1
+2024-03-27,10:44,Sathy Road,10.967910905063606,76.91442511707203,Two-Wheeler,Clear,City Roads,Serious,Wednesday,March,10,0
+2024-12-03,11:07,Pollachi Road,10.934725712696057,76.9313457075308,Car/SUV,Clear,National Highway,Fatal,Tuesday,December,11,1
+2024-02-13,12:25,Mettupalayam Road,10.97815884367252,76.91115244057217,Car/SUV,Clear,State Highway,Minor,Tuesday,February,12,0
+2024-05-25,20:49,Trichy Road,10.998255286858393,76.92423038354764,Two-Wheeler,Clear,State Highway,Fatal,Saturday,May,20,1
+2024-09-20,09:40,Thudiyalur,10.950638209597638,76.97292928002294,Two-Wheeler,Clear,State Highway,Minor,Friday,September,9,0
+2024-12-05,22:23,Periyanaickenpalayam,11.039695085753683,76.95137942373334,Two-Wheeler,Rain,State Highway,Fatal,Thursday,December,22,1
+2024-11-20,15:08,Trichy Road,10.981858139236953,76.99036091845115,Car/SUV,Rain,State Highway,Fatal,Wednesday,November,15,1
+2024-11-13,13:47,Peelamedu,10.92223423848346,76.87596182841287,Truck,Clear,National Highway,Serious,Wednesday,November,13,0
+2024-06-20,22:26,Race Course Road,10.928500356450714,76.86801129337859,Two-Wheeler,Clear,State Highway,Minor,Thursday,June,22,0
+2024-02-17,19:48,Avinashi Road,10.994787942246711,77.00615973929645,Auto-Rickshaw,Rain,State Highway,Serious,Saturday,February,19,0
+2024-04-30,17:52,Thudiyalur,10.980808292768092,76.85724533167082,Two-Wheeler,Rain,State Highway,Minor,Tuesday,April,17,0
+2024-12-10,09:43,Karanampettai,10.999364562399702,76.97228908971131,Two-Wheeler,Clear,National Highway,Fatal,Tuesday,December,9,1
+2024-06-07,18:33,Karamadai,10.981643558159373,77.05332376681842,Truck,Clear,City Roads,Minor,Friday,June,18,0
+2024-04-25,14:23,Brookefields,10.991902631660667,76.87516837019186,Auto-Rickshaw,Clear,National Highway,Fatal,Thursday,April,14,1
+2024-04-11,04:07,Sathy Road,11.082348279731724,76.96026690885988,Auto-Rickshaw,Clear,National Highway,Serious,Thursday,April,4,0
+2024-03-16,04:57,Karamadai,10.940993252700386,76.85725239140938,Two-Wheeler,Clear,State Highway,Fatal,Saturday,March,4,1
+2024-01-13,17:34,Karanampettai,10.957311891602908,76.97639697437297,Bus,Rain,State Highway,Minor,Saturday,January,17,0
+2024-01-24,07:54,Periyanaickenpalayam,11.067226747794455,77.05317936848708,Two-Wheeler,Clear,State Highway,Fatal,Wednesday,January,7,1
+2024-05-05,15:43,Thudiyalur,11.034005815369623,77.00807279404675,Two-Wheeler,Rain,State Highway,Fatal,Sunday,May,15,1
+2024-08-31,08:31,Cross Cut Road,11.015395888180466,77.04222567617583,Car/SUV,Clear,State Highway,Serious,Saturday,August,8,0
+2024-11-08,08:28,Mettupalayam Road,11.067277995730073,76.95044635663764,Truck,Clear,State Highway,Serious,Friday,November,8,0
+2024-02-07,19:08,Trichy Road,10.993809735926028,76.92320599364693,Two-Wheeler,Rain,National Highway,Serious,Wednesday,February,19,0
+2024-08-21,16:36,Gandhipuram,10.939816274376643,76.9416907242664,Auto-Rickshaw,Rain,State Highway,Fatal,Wednesday,August,16,1
+2024-07-31,03:43,Singanallur,10.928926395580675,76.92995702444591,Two-Wheeler,Clear,City Roads,Minor,Wednesday,July,3,0
+2024-11-18,20:01,Gandhipuram,11.009764706649067,77.0338304392324,Pedestrian,Clear,State Highway,Minor,Monday,November,20,0
+2024-10-21,12:47,Pollachi Road,10.9982152927182,77.05568902705195,Two-Wheeler,Clear,State Highway,Serious,Monday,October,12,0
+2024-04-09,09:02,Karamadai,11.01363430199162,77.01916943840921,Bus,Clear,National Highway,Serious,Tuesday,April,9,0
+2024-12-22,14:04,Thudiyalur,10.998298757948788,77.04399820934714,Two-Wheeler,Clear,City Roads,Serious,Sunday,December,14,0
+2024-07-15,15:59,Brookefields,10.963548091151916,76.98881565706502,Two-Wheeler,Clear,State Highway,Minor,Monday,July,15,0
+2024-09-10,22:02,Karamadai,11.094031179205512,76.93148713964642,Car/SUV,Clear,National Highway,Minor,Tuesday,September,22,0
+2024-07-23,09:49,Peelamedu,10.970631947675459,76.86724830878869,Two-Wheeler,Clear,State Highway,Minor,Tuesday,July,9,0
+2024-05-04,08:46,Trichy Road,11.10949493756618,76.92700584677618,Two-Wheeler,Clear,City Roads,Minor,Saturday,May,8,0
+2024-03-16,16:23,Avinashi Road,11.051819485803707,76.92185105073195,Bus,Clear,State Highway,Fatal,Saturday,March,16,1
+2024-12-01,22:28,Cross Cut Road,10.96606321918216,76.87583547251684,Truck,Rain,National Highway,Minor,Sunday,December,22,0
+2024-12-18,19:24,Gandhipuram,11.027741490011739,76.9471838518717,Truck,Clear,State Highway,Serious,Wednesday,December,19,0
+2024-01-03,05:55,Race Course Road,11.07384283733006,76.9954616539386,Auto-Rickshaw,Clear,State Highway,Fatal,Wednesday,January,5,1
+2024-02-24,17:55,Avinashi Road,10.97772256839312,77.00084403745446,Bus,Clear,National Highway,Minor,Saturday,February,17,0
+2024-08-05,09:34,Peelamedu,10.998149184283587,77.03339411025797,Car/SUV,Clear,State Highway,Serious,Monday,August,9,0
+2024-04-22,12:46,Brookefields,10.93358167111617,76.88357260545742,Two-Wheeler,Rain,State Highway,Minor,Monday,April,12,0
+2024-03-31,21:48,Cross Cut Road,11.043959798890997,76.97618183528616,Two-Wheeler,Clear,State Highway,Fatal,Sunday,March,21,1
+2024-12-22,02:29,Singanallur,10.957491381369355,77.02960105634128,Car/SUV,Rain,State Highway,Fatal,Sunday,December,2,1
+2024-09-22,20:27,Avinashi Road,11.110382302544068,76.91169350603678,Two-Wheeler,Clear,State Highway,Minor,Sunday,September,20,0
+2024-08-25,15:15,Brookefields,10.991461044091642,76.99565292427457,Auto-Rickshaw,Clear,State Highway,Serious,Sunday,August,15,0
+2024-01-26,12:17,Gandhipuram,11.113861743092817,77.0188103517302,Auto-Rickshaw,Clear,State Highway,Minor,Friday,January,12,0
+2024-10-12,08:48,Singanallur,11.07320473253304,76.92948597902642,Two-Wheeler,Clear,State Highway,Serious,Saturday,October,8,0
+2024-05-07,08:26,Cross Cut Road,11.024307125962693,76.97947033911673,Two-Wheeler,Clear,City Roads,Serious,Tuesday,May,8,0
+2024-03-03,15:15,Mettupalayam Road,11.001550491323101,76.98757522103466,Bus,Clear,State Highway,Serious,Sunday,March,15,0
+2024-08-21,06:38,Trichy Road,11.099098546366621,76.95083988551335,Bus,Rain,State Highway,Minor,Wednesday,August,6,0
+2024-03-09,04:43,Karanampettai,11.007148400237847,76.93842531855736,Two-Wheeler,Rain,City Roads,Serious,Saturday,March,4,0
+2024-08-25,18:15,Periyanaickenpalayam,10.917000211722618,76.89338698702325,Car/SUV,Rain,State Highway,Fatal,Sunday,August,18,1
+2024-12-07,19:28,Trichy Road,11.009730410744421,77.05303628109407,Auto-Rickshaw,Clear,State Highway,Serious,Saturday,December,19,0
+2024-09-28,09:48,Cross Cut Road,11.082674356956378,77.04730942853382,Truck,Rain,State Highway,Serious,Saturday,September,9,0
+2024-10-13,18:08,Brookefields,10.9746498909668,77.01832380955544,Two-Wheeler,Clear,State Highway,Minor,Sunday,October,18,0
+2024-10-31,16:14,Karamadai,11.111216360806498,76.85912606082228,Bus,Clear,State Highway,Serious,Thursday,October,16,0
+2024-06-11,20:36,Gandhipuram,10.916908586341403,76.92784112242674,Car/SUV,Clear,State Highway,Fatal,Tuesday,June,20,1
+2024-08-14,11:49,Singanallur,11.103501363208608,76.86495085668801,Car/SUV,Clear,State Highway,Minor,Wednesday,August,11,0
+2024-11-09,19:15,Cross Cut Road,11.013237251975093,77.01731156237098,Two-Wheeler,Clear,State Highway,Fatal,Saturday,November,19,1
+2024-09-15,09:42,Sathy Road,11.036373550300134,76.9209050398915,Two-Wheeler,Clear,State Highway,Minor,Sunday,September,9,0
+2024-08-06,16:19,Karanampettai,11.084697544324394,76.9446612318539,Two-Wheeler,Clear,State Highway,Minor,Tuesday,August,16,0
+2024-10-07,11:37,Peelamedu,10.992830702887836,76.97715260326346,Car/SUV,Clear,National Highway,Serious,Monday,October,11,0
+2024-08-16,21:40,Mettupalayam Road,10.987083584061919,76.93583303816796,Two-Wheeler,Rain,State Highway,Serious,Friday,August,21,0
+2024-03-22,20:31,Peelamedu,11.043241388149193,76.97831846908623,Auto-Rickshaw,Clear,State Highway,Minor,Friday,March,20,0
+2024-08-31,02:41,Thudiyalur,11.033831833292073,76.87207384625127,Car/SUV,Cloudy,National Highway,Serious,Saturday,August,2,0
+2024-08-18,20:20,Periyanaickenpalayam,11.018865684320497,76.94138325609428,Two-Wheeler,Clear,State Highway,Serious,Sunday,August,20,0
+2024-05-12,19:09,Avinashi Road,10.925896946062768,77.04209669389348,Two-Wheeler,Clear,City Roads,Minor,Sunday,May,19,0
+2024-05-06,09:48,Gandhipuram,11.06463658911897,77.04196890084165,Auto-Rickshaw,Clear,National Highway,Minor,Monday,May,9,0
+2024-11-22,15:54,Periyanaickenpalayam,11.029416315588259,77.053174292699,Truck,Fog,National Highway,Serious,Friday,November,15,0
+2024-05-21,11:09,Gandhipuram,10.976927669706516,77.02722000004574,Truck,Clear,State Highway,Serious,Tuesday,May,11,0
+2024-09-23,18:35,Gandhipuram,10.99586098022823,77.03684055240818,Two-Wheeler,Clear,City Roads,Fatal,Monday,September,18,1
+2024-09-05,13:35,Trichy Road,10.941395392987875,77.00265554859766,Two-Wheeler,Clear,State Highway,Minor,Thursday,September,13,0
+2024-11-16,16:15,Trichy Road,10.944730053658894,76.9145725946414,Two-Wheeler,Clear,State Highway,Fatal,Saturday,November,16,1
+2024-05-02,10:41,Sathy Road,11.028095816300542,76.89481539103976,Car/SUV,Clear,State Highway,Fatal,Thursday,May,10,1
+2024-05-20,03:54,Gandhipuram,10.972691659674464,76.8844322889773,Pedestrian,Clear,National Highway,Serious,Monday,May,3,0
+2024-08-13,11:46,Peelamedu,11.00319248640962,76.95981088576947,Auto-Rickshaw,Cloudy,State Highway,Minor,Tuesday,August,11,0
+2024-02-09,18:17,Singanallur,11.038889061893254,76.97017852499613,Car/SUV,Clear,National Highway,Minor,Friday,February,18,0
+2024-12-31,14:38,Mettupalayam Road,11.108283434739793,77.02716052208642,Truck,Clear,State Highway,Fatal,Tuesday,December,14,1
+2024-05-26,00:12,Trichy Road,10.980460788363116,76.95672732315025,Two-Wheeler,Rain,National Highway,Serious,Sunday,May,0,0
+2024-04-30,20:46,Mettupalayam Road,11.05322019919367,76.88137227089692,Two-Wheeler,Clear,State Highway,Serious,Tuesday,April,20,0
+2024-05-19,18:30,Peelamedu,10.98532705126281,77.01516415208442,Two-Wheeler,Fog,State Highway,Fatal,Sunday,May,18,1
+2024-06-20,10:19,Gandhipuram,10.969072106676757,76.91606966099792,Truck,Rain,State Highway,Minor,Thursday,June,10,0
+2024-06-12,21:13,Pollachi Road,11.067338800221314,76.99041243211673,Truck,Clear,City Roads,Minor,Wednesday,June,21,0
+2024-10-03,23:07,Gandhipuram,11.007343616224844,76.9655493320513,Two-Wheeler,Clear,State Highway,Serious,Thursday,October,23,0
+2024-02-11,19:58,Thudiyalur,10.965985656997974,77.03075715538681,Auto-Rickshaw,Clear,State Highway,Minor,Sunday,February,19,0
+2024-03-11,11:45,Cross Cut Road,11.113404389431533,76.88941057027638,Car/SUV,Clear,State Highway,Minor,Monday,March,11,0
+2024-03-18,06:35,Karamadai,10.985125960949993,76.94505734006621,Car/SUV,Rain,State Highway,Minor,Monday,March,6,0
+2024-04-28,10:24,Gandhipuram,11.008759868310381,76.87893572836245,Two-Wheeler,Clear,State Highway,Minor,Sunday,April,10,0
+2024-07-15,14:22,Singanallur,11.03670273345777,76.98832842208843,Two-Wheeler,Clear,State Highway,Fatal,Monday,July,14,1
+2024-12-21,10:32,Singanallur,10.919974923232225,76.9039803227117,Bus,Clear,State Highway,Fatal,Saturday,December,10,1
+2024-03-19,22:06,Cross Cut Road,11.055169012078235,76.8981281642354,Two-Wheeler,Clear,State Highway,Fatal,Tuesday,March,22,1
+2024-12-27,20:30,Periyanaickenpalayam,11.046088658383873,77.00645050414832,Pedestrian,Clear,State Highway,Serious,Friday,December,20,0
+2024-04-19,19:58,Singanallur,10.917209502698164,76.98774902047501,Car/SUV,Clear,National Highway,Fatal,Friday,April,19,1
+2024-02-02,07:26,Avinashi Road,11.012105790013491,76.87368636312704,Two-Wheeler,Clear,State Highway,Fatal,Friday,February,7,1
+2024-07-31,01:47,Trichy Road,11.097088998796908,76.94277868137561,Two-Wheeler,Clear,State Highway,Fatal,Wednesday,July,1,1
+2024-07-27,07:35,Peelamedu,11.051341280826234,76.99895303121392,Two-Wheeler,Clear,State Highway,Serious,Saturday,July,7,0
+2024-06-18,23:46,Sathy Road,10.99943260655968,76.88784705555588,Two-Wheeler,Clear,National Highway,Fatal,Tuesday,June,23,1
+2024-10-04,12:12,Peelamedu,11.095853635442987,77.04159347182288,Car/SUV,Cloudy,State Highway,Serious,Friday,October,12,0
+2024-08-26,10:36,Singanallur,11.057459935010934,77.0363297037713,Truck,Rain,State Highway,Serious,Monday,August,10,0
+2024-07-31,19:35,Thudiyalur,11.069293048299537,77.00906176476532,Bus,Clear,National Highway,Serious,Wednesday,July,19,0
+2024-02-01,17:21,Thudiyalur,11.024426290740294,76.89987520699378,Two-Wheeler,Clear,State Highway,Serious,Thursday,February,17,0
+2024-04-15,10:46,Brookefields,11.074261046988845,76.90732570853521,Two-Wheeler,Clear,Village Roads,Fatal,Monday,April,10,1
+2024-08-03,16:29,Periyanaickenpalayam,11.046619455223183,76.95106046358272,Car/SUV,Clear,State Highway,Serious,Saturday,August,16,0
+2024-07-18,07:10,Gandhipuram,10.93230462326206,77.03530217674762,Truck,Rain,National Highway,Minor,Thursday,July,7,0
+2024-10-26,08:31,Peelamedu,10.922989504105706,76.88041962203008,Bus,Clear,City Roads,Serious,Saturday,October,8,0
+2024-12-22,08:41,Karamadai,11.083216772925939,76.88295128648689,Two-Wheeler,Clear,Village Roads,Serious,Sunday,December,8,0
+2024-01-11,23:02,Brookefields,11.051122615631188,76.96270866058103,Car/SUV,Clear,State Highway,Fatal,Thursday,January,23,1
+2024-10-21,18:52,Periyanaickenpalayam,11.051249182634674,77.00088288128966,Car/SUV,Rain,State Highway,Serious,Monday,October,18,0
+2024-07-13,18:26,Gandhipuram,10.98739894647008,76.87388835088542,Two-Wheeler,Fog,State Highway,Serious,Saturday,July,18,0
+2024-09-01,08:14,Gandhipuram,11.07935624946412,76.99415690965175,Two-Wheeler,Clear,State Highway,Fatal,Sunday,September,8,1
+2024-01-04,01:00,Peelamedu,11.082293367018268,77.03018812140198,Two-Wheeler,Cloudy,Village Roads,Minor,Thursday,January,1,0
+2024-06-29,10:23,Sathy Road,10.988393148092554,77.04215599102969,Pedestrian,Clear,State Highway,Minor,Saturday,June,10,0
+2024-06-01,05:42,Peelamedu,10.952237327383676,77.00906747733927,Car/SUV,Clear,State Highway,Serious,Saturday,June,5,0
+2024-07-18,22:42,Pollachi Road,11.0703931688724,76.97593588408331,Auto-Rickshaw,Clear,State Highway,Minor,Thursday,July,22,0
+2024-08-02,12:34,Brookefields,11.056206026875667,76.98459730812195,Two-Wheeler,Fog,State Highway,Serious,Friday,August,12,0
+2024-10-02,15:01,Trichy Road,10.918486275191253,76.93120206448758,Truck,Clear,State Highway,Serious,Wednesday,October,15,0
+2024-10-06,16:34,Karanampettai,11.009338506344676,76.99928854682291,Auto-Rickshaw,Clear,State Highway,Minor,Sunday,October,16,0
+2024-11-04,21:32,Sathy Road,11.104049569882438,77.00300049757514,Two-Wheeler,Clear,State Highway,Minor,Monday,November,21,0
+2024-04-22,20:27,Karamadai,11.005715531351214,76.93213010097432,Two-Wheeler,Clear,State Highway,Serious,Monday,April,20,0
+2024-09-06,18:06,Periyanaickenpalayam,10.961104152940429,76.98422044053238,Truck,Clear,National Highway,Fatal,Friday,September,18,1
+2024-04-22,23:09,Race Course Road,10.920756333932907,76.96817998897768,Auto-Rickshaw,Clear,Village Roads,Serious,Monday,April,23,0
+2024-05-19,11:33,Brookefields,10.973026896763674,77.02702820233846,Bus,Fog,State Highway,Minor,Sunday,May,11,0
+2024-08-11,10:17,Peelamedu,11.101079737933274,77.01748949638808,Bus,Rain,State Highway,Serious,Sunday,August,10,0
+2024-09-05,18:23,Karanampettai,10.988364203786123,76.90051016713842,Car/SUV,Cloudy,State Highway,Minor,Thursday,September,18,0
+2024-01-15,22:36,Brookefields,10.934793303859653,76.87893799305405,Truck,Rain,State Highway,Minor,Monday,January,22,0
+2024-07-18,11:14,Karamadai,11.039488541747982,76.87333606812862,Truck,Rain,City Roads,Minor,Thursday,July,11,0
+2024-06-21,09:41,Thudiyalur,10.977435706496856,76.87362788535988,Truck,Clear,National Highway,Fatal,Friday,June,9,1
+2024-12-08,23:48,Brookefields,11.060361905952018,77.00391624376803,Truck,Clear,Village Roads,Serious,Sunday,December,23,0
+2024-12-13,03:24,Avinashi Road,10.963651588756024,77.04324213013076,Pedestrian,Cloudy,State Highway,Serious,Friday,December,3,0
+2024-07-26,13:03,Singanallur,11.015561734317686,77.00472355045974,Two-Wheeler,Clear,State Highway,Serious,Friday,July,13,0
+2024-03-25,17:10,Avinashi Road,10.989399835748667,76.87902124477154,Two-Wheeler,Rain,State Highway,Minor,Monday,March,17,0
+2024-08-27,03:41,Cross Cut Road,10.97295127160078,76.92934740519436,Two-Wheeler,Rain,State Highway,Serious,Tuesday,August,3,0
+2024-03-06,20:54,Cross Cut Road,11.097701518023085,77.02646606180872,Two-Wheeler,Cloudy,State Highway,Fatal,Wednesday,March,20,1
+2024-11-14,23:58,Pollachi Road,11.058193601307313,77.04661372377305,Truck,Clear,State Highway,Fatal,Thursday,November,23,1
+2024-09-30,01:57,Cross Cut Road,10.958617264269494,76.97118336833852,Car/SUV,Clear,State Highway,Minor,Monday,September,1,0
+2024-01-14,20:30,Thudiyalur,10.956017358804141,76.85613569829285,Two-Wheeler,Clear,National Highway,Serious,Sunday,January,20,0
+2024-07-20,09:43,Singanallur,11.081024694130475,76.86817698732325,Truck,Clear,State Highway,Fatal,Saturday,July,9,1
+2024-10-30,23:36,Cross Cut Road,10.996017235909322,76.96292060807623,Two-Wheeler,Clear,State Highway,Minor,Wednesday,October,23,0
+2024-10-15,15:59,Pollachi Road,11.090783246501308,77.02522371932885,Car/SUV,Clear,State Highway,Fatal,Tuesday,October,15,1
+2024-12-05,18:13,Avinashi Road,11.03062044628311,77.05176989963009,Truck,Clear,State Highway,Fatal,Thursday,December,18,1
+2024-01-14,17:52,Periyanaickenpalayam,11.015602264288779,76.91972859782469,Auto-Rickshaw,Cloudy,National Highway,Serious,Sunday,January,17,0
+2024-02-12,12:19,Mettupalayam Road,11.027157037475362,76.92880476848708,Truck,Clear,State Highway,Serious,Monday,February,12,0
+2024-11-25,06:36,Cross Cut Road,11.048767684237383,76.99166043407608,Car/SUV,Clear,National Highway,Minor,Monday,November,6,0
+2024-08-07,19:43,Trichy Road,11.02994140956428,77.01511306053148,Bus,Clear,State Highway,Fatal,Wednesday,August,19,1
+2024-03-10,22:24,Karamadai,11.053276720277925,76.95975027646979,Bus,Cloudy,State Highway,Serious,Sunday,March,22,0
+2024-08-24,18:50,Race Course Road,11.02982804675032,76.9761235277396,Auto-Rickshaw,Clear,State Highway,Fatal,Saturday,August,18,1
+2024-04-03,23:05,Sathy Road,10.929872125000006,76.90022831144718,Two-Wheeler,Clear,State Highway,Serious,Wednesday,April,23,0
+2024-01-26,16:03,Sathy Road,10.942449278977474,76.93486247676788,Two-Wheeler,Rain,State Highway,Serious,Friday,January,16,0
+2024-05-13,06:53,Pollachi Road,10.92980986428176,76.96345858866626,Two-Wheeler,Clear,National Highway,Minor,Monday,May,6,0
+2024-07-13,04:49,Mettupalayam Road,10.968724896141236,76.94792055402387,Two-Wheeler,Clear,City Roads,Minor,Saturday,July,4,0
+2024-06-16,17:25,Karanampettai,11.030780658137022,76.88474015731833,Bus,Clear,National Highway,Serious,Sunday,June,17,0
+2024-04-18,22:01,Brookefields,10.96239303504378,77.0443779817355,Truck,Rain,State Highway,Fatal,Thursday,April,22,1
+2024-08-20,16:31,Singanallur,11.021415991903691,77.02324333091215,Two-Wheeler,Clear,State Highway,Minor,Tuesday,August,16,0
+2024-06-16,11:24,Peelamedu,11.073250541726244,76.9557665330052,Truck,Fog,State Highway,Serious,Sunday,June,11,0
+2024-06-21,14:37,Cross Cut Road,10.955170309543114,76.9469569061092,Two-Wheeler,Clear,City Roads,Serious,Friday,June,14,0
+2024-07-13,15:49,Singanallur,11.052395743392584,76.97609308271913,Two-Wheeler,Clear,State Highway,Serious,Saturday,July,15,0
+2024-05-22,15:45,Pollachi Road,11.11519027072461,76.88497413971879,Two-Wheeler,Rain,State Highway,Serious,Wednesday,May,15,0
+2024-08-03,02:09,Peelamedu,11.055397163077792,76.98887014085221,Truck,Clear,National Highway,Minor,Saturday,August,2,0
+2024-05-09,14:09,Race Course Road,11.023388303468312,77.0160583510097,Two-Wheeler,Fog,State Highway,Minor,Thursday,May,14,0
+2024-02-11,19:23,Cross Cut Road,10.967384214449943,76.99639336190573,Truck,Clear,National Highway,Fatal,Sunday,February,19,1
+2024-08-28,06:19,Periyanaickenpalayam,11.02882319545016,76.9755760616543,Two-Wheeler,Fog,National Highway,Minor,Wednesday,August,6,0
+2024-01-10,13:06,Singanallur,11.00758522473865,76.91757828535792,Two-Wheeler,Clear,State Highway,Serious,Wednesday,January,13,0
+2024-10-03,06:27,Karamadai,11.10437807378041,77.05386702239602,Two-Wheeler,Clear,National Highway,Minor,Thursday,October,6,0
+2024-01-27,14:32,Thudiyalur,11.044993257261961,76.88049280253865,Auto-Rickshaw,Rain,State Highway,Minor,Saturday,January,14,0
+2024-06-28,12:05,Thudiyalur,11.105414844754383,77.05516972088765,Car/SUV,Rain,State Highway,Serious,Friday,June,12,0
+2024-04-24,09:38,Peelamedu,10.927172559508472,76.99710445357259,Auto-Rickshaw,Clear,State Highway,Minor,Wednesday,April,9,0
+2024-11-28,16:55,Brookefields,11.104551865868268,76.95145654938084,Car/SUV,Clear,National Highway,Minor,Thursday,November,16,0
+2024-02-05,13:26,Pollachi Road,11.003309634322436,77.02153746087507,Auto-Rickshaw,Clear,National Highway,Serious,Monday,February,13,0
+2024-11-29,12:46,Trichy Road,11.115821295319313,76.95480510503575,Two-Wheeler,Clear,City Roads,Minor,Friday,November,12,0
+2024-01-21,21:36,Pollachi Road,10.971607119252857,76.99662809532656,Auto-Rickshaw,Clear,State Highway,Fatal,Sunday,January,21,1
+2024-01-16,17:24,Cross Cut Road,11.052834695086323,76.93114172543706,Car/SUV,Clear,Village Roads,Serious,Tuesday,January,17,0
+2024-05-06,07:19,Race Course Road,11.0101173455232,77.0520285590324,Auto-Rickshaw,Fog,State Highway,Fatal,Monday,May,7,1
+2024-04-12,09:04,Peelamedu,10.9890943686206,76.92242890933856,Two-Wheeler,Clear,State Highway,Fatal,Friday,April,9,1
+2024-01-11,07:26,Karamadai,11.068604342930712,77.02137693886274,Two-Wheeler,Clear,Village Roads,Serious,Thursday,January,7,0
+2024-11-14,09:23,Singanallur,11.093560488333136,76.89792261713754,Two-Wheeler,Clear,State Highway,Minor,Thursday,November,9,0
+2024-03-19,09:46,Trichy Road,10.961709641216643,77.00233162052398,Auto-Rickshaw,Rain,City Roads,Minor,Tuesday,March,9,0
+2024-05-02,17:39,Mettupalayam Road,10.972386606142509,77.01788373043696,Two-Wheeler,Clear,State Highway,Fatal,Thursday,May,17,1
+2024-03-05,06:08,Sathy Road,11.000812413818256,76.99588148273189,Two-Wheeler,Clear,State Highway,Minor,Tuesday,March,6,0
+2024-08-30,10:21,Periyanaickenpalayam,11.006572299403313,76.86631326084607,Two-Wheeler,Clear,State Highway,Minor,Friday,August,10,0
+2024-12-08,19:51,Karamadai,10.917831856822756,77.0288863791347,Car/SUV,Clear,City Roads,Fatal,Sunday,December,19,1
+2024-02-28,19:21,Pollachi Road,10.955721627901056,76.89160404647704,Auto-Rickshaw,Clear,National Highway,Serious,Wednesday,February,19,0
+2024-10-15,14:38,Periyanaickenpalayam,10.933161780285982,76.95330093032031,Car/SUV,Cloudy,National Highway,Minor,Tuesday,October,14,0
+2024-04-21,07:38,Gandhipuram,11.031163923382271,76.93416157277092,Two-Wheeler,Rain,State Highway,Serious,Sunday,April,7,0
+2024-08-26,21:30,Periyanaickenpalayam,10.921874387774265,77.05267790843101,Truck,Rain,State Highway,Serious,Monday,August,21,0
+2024-12-24,10:20,Peelamedu,11.0642888357902,76.98765006218012,Truck,Clear,State Highway,Minor,Tuesday,December,10,0
+2024-05-11,11:40,Gandhipuram,11.112419122221393,77.02550364922165,Car/SUV,Cloudy,State Highway,Minor,Saturday,May,11,0
+2024-07-07,14:50,Race Course Road,11.001564051374459,77.05401264299984,Car/SUV,Fog,State Highway,Fatal,Sunday,July,14,1
+2024-03-26,10:17,Mettupalayam Road,10.931688073380284,76.96538858190817,Two-Wheeler,Clear,State Highway,Fatal,Tuesday,March,10,1
+2024-11-06,19:23,Avinashi Road,10.9667968323065,76.92328202953105,Car/SUV,Clear,City Roads,Serious,Wednesday,November,19,0
+2024-11-06,08:12,Avinashi Road,10.94969631505195,76.99137973723623,Two-Wheeler,Clear,State Highway,Serious,Wednesday,November,8,0
+2024-02-28,17:11,Gandhipuram,10.978961171529955,77.05386285999462,Two-Wheeler,Clear,State Highway,Fatal,Wednesday,February,17,1
+2024-03-24,20:01,Karanampettai,11.041998937394164,77.00734283701087,Truck,Rain,State Highway,Minor,Sunday,March,20,0
+2024-06-08,22:45,Cross Cut Road,10.936145219474842,76.93401261893484,Two-Wheeler,Clear,National Highway,Minor,Saturday,June,22,0
+2024-02-25,10:53,Race Course Road,11.012793284034652,76.96136888688616,Truck,Clear,National Highway,Serious,Sunday,February,10,0
+2024-10-23,19:43,Cross Cut Road,11.078411814832723,76.91240797399634,Car/SUV,Clear,City Roads,Serious,Wednesday,October,19,0
+2024-01-14,14:19,Mettupalayam Road,11.035306154115828,76.99507526313522,Truck,Clear,State Highway,Serious,Sunday,January,14,0
+2024-06-08,11:09,Gandhipuram,11.042059421669038,76.89481843533085,Two-Wheeler,Clear,State Highway,Fatal,Saturday,June,11,1
+2024-10-21,19:04,Sathy Road,10.983660507190983,77.02705044397713,Car/SUV,Clear,State Highway,Fatal,Monday,October,19,1
+2024-12-12,14:30,Thudiyalur,10.966881894169976,76.93455449075896,Car/SUV,Cloudy,State Highway,Fatal,Thursday,December,14,1
+2024-07-11,17:32,Mettupalayam Road,10.938368130662406,76.8819801366857,Two-Wheeler,Clear,State Highway,Minor,Thursday,July,17,0
+2024-07-22,23:26,Trichy Road,10.964471842513685,77.00625329599272,Pedestrian,Clear,City Roads,Minor,Monday,July,23,0
+2024-04-11,16:44,Brookefields,10.984960393584545,76.97187673595228,Two-Wheeler,Clear,National Highway,Serious,Thursday,April,16,0
+2024-02-08,23:38,Peelamedu,10.9276865720356,77.01681435728985,Two-Wheeler,Clear,State Highway,Minor,Thursday,February,23,0
+2024-10-30,15:06,Pollachi Road,10.983517691003792,77.02576194412495,Two-Wheeler,Clear,National Highway,Minor,Wednesday,October,15,0
+2024-12-19,20:42,Avinashi Road,11.075622223896897,76.99771750631344,Two-Wheeler,Clear,State Highway,Serious,Thursday,December,20,0
+2024-11-17,11:39,Periyanaickenpalayam,11.10550951544182,76.94730650002752,Two-Wheeler,Clear,City Roads,Serious,Sunday,November,11,0
+2024-05-04,05:43,Race Course Road,11.071949894356674,76.88853889359407,Two-Wheeler,Clear,National Highway,Minor,Saturday,May,5,0
+2024-02-22,16:50,Periyanaickenpalayam,11.040713311121657,76.88331219189448,Bus,Clear,City Roads,Fatal,Thursday,February,16,1
+2024-12-22,12:06,Race Course Road,11.069619714092717,76.99499110519058,Two-Wheeler,Clear,National Highway,Fatal,Sunday,December,12,1
+2024-06-03,11:47,Trichy Road,11.041869751510704,76.91401631386461,Truck,Clear,State Highway,Fatal,Monday,June,11,1
+2024-12-16,17:44,Pollachi Road,11.032586893851796,76.88476457643772,Car/SUV,Clear,National Highway,Minor,Monday,December,17,0
+2024-11-03,16:23,Sathy Road,10.933906939814278,76.8994272946065,Two-Wheeler,Clear,State Highway,Fatal,Sunday,November,16,1
+2024-03-02,14:37,Karamadai,10.92893738905894,77.0054765035326,Truck,Clear,National Highway,Minor,Saturday,March,14,0
+2024-10-16,18:22,Pollachi Road,10.923468735112838,77.00286377931123,Two-Wheeler,Clear,State Highway,Serious,Wednesday,October,18,0
+2024-01-22,22:06,Race Course Road,10.979455886843926,76.85762650292251,Two-Wheeler,Clear,State Highway,Serious,Monday,January,22,0
+2024-06-26,09:07,Sathy Road,11.08633842892254,77.00099150235674,Two-Wheeler,Rain,City Roads,Minor,Wednesday,June,9,0
+2024-09-29,20:09,Avinashi Road,10.92980564375914,76.97093641938856,Car/SUV,Clear,National Highway,Serious,Sunday,September,20,0
+2024-08-07,10:29,Brookefields,10.94230715813339,76.99146356120333,Two-Wheeler,Rain,State Highway,Serious,Wednesday,August,10,0
+2024-12-04,20:30,Karanampettai,11.10062315755246,77.0534968375719,Bus,Clear,State Highway,Minor,Wednesday,December,20,0
+2024-07-08,09:28,Periyanaickenpalayam,11.005183680663688,76.88532109184348,Two-Wheeler,Clear,State Highway,Fatal,Monday,July,9,1
+2024-02-05,19:20,Singanallur,10.9770942148011,77.04587963088557,Two-Wheeler,Clear,State Highway,Serious,Monday,February,19,0
+2024-09-16,00:51,Gandhipuram,11.042037042355297,76.9412222128979,Truck,Clear,State Highway,Serious,Monday,September,0,0
+2024-11-27,18:54,Gandhipuram,10.929958051821332,77.02413201820883,Car/SUV,Clear,National Highway,Minor,Wednesday,November,18,0
+2024-06-23,09:43,Thudiyalur,11.052312891494914,77.04099706734468,Two-Wheeler,Clear,State Highway,Fatal,Sunday,June,9,1
+2024-01-07,20:15,Peelamedu,11.02865161032111,76.87500954638061,Auto-Rickshaw,Clear,State Highway,Fatal,Sunday,January,20,1
+2024-08-03,17:10,Cross Cut Road,10.975783354046836,77.05063175199311,Pedestrian,Clear,State Highway,Serious,Saturday,August,17,0
+2024-09-07,10:29,Thudiyalur,10.993091096809033,76.89172657587686,Two-Wheeler,Clear,City Roads,Minor,Saturday,September,10,0
+2024-02-24,10:40,Sathy Road,10.935966050281081,76.86629442308745,Auto-Rickshaw,Clear,State Highway,Fatal,Saturday,February,10,1
+2024-08-09,08:42,Mettupalayam Road,11.067192671542031,77.05185535196577,Two-Wheeler,Clear,State Highway,Fatal,Friday,August,8,1
+2024-07-04,12:47,Brookefields,10.96342239680377,76.98581956096065,Two-Wheeler,Cloudy,State Highway,Fatal,Thursday,July,12,1
+2024-11-21,15:28,Mettupalayam Road,11.036715170650892,76.97447847805294,Auto-Rickshaw,Clear,State Highway,Serious,Thursday,November,15,0
+2024-08-23,16:00,Mettupalayam Road,11.048744806313527,77.04974539467777,Auto-Rickshaw,Rain,State Highway,Minor,Friday,August,16,0
+2024-12-28,18:17,Peelamedu,10.918921309121567,76.9811945093193,Two-Wheeler,Clear,State Highway,Serious,Saturday,December,18,0
+2024-03-19,18:36,Peelamedu,10.993584004962756,76.93659879916459,Two-Wheeler,Clear,State Highway,Serious,Tuesday,March,18,0
+2024-08-10,08:11,Singanallur,11.075832935542026,76.86259856556475,Truck,Cloudy,State Highway,Serious,Saturday,August,8,0
+2024-03-31,09:29,Trichy Road,11.092787633496837,76.90397108422017,Two-Wheeler,Rain,State Highway,Minor,Sunday,March,9,0
+2024-09-24,08:55,Trichy Road,11.040646110852476,76.95352517875237,Truck,Clear,State Highway,Serious,Tuesday,September,8,0
+2024-11-29,14:20,Brookefields,10.984723294977726,76.9933968211832,Car/SUV,Rain,State Highway,Minor,Friday,November,14,0
+2024-05-18,17:25,Thudiyalur,11.104316970449352,77.04671107274962,Two-Wheeler,Rain,State Highway,Fatal,Saturday,May,17,1
+2024-11-11,16:22,Periyanaickenpalayam,11.073385827508528,76.98635939338386,Two-Wheeler,Clear,State Highway,Fatal,Monday,November,16,1
+2024-10-02,20:11,Pollachi Road,11.007615352674145,76.93087432814814,Truck,Clear,State Highway,Minor,Wednesday,October,20,0
+2024-09-04,20:51,Periyanaickenpalayam,10.982438733786067,76.99415896997327,Two-Wheeler,Clear,State Highway,Serious,Wednesday,September,20,0
+2024-08-26,11:37,Peelamedu,10.955296263486156,77.01486504194548,Auto-Rickshaw,Clear,National Highway,Minor,Monday,August,11,0
+2024-08-11,06:20,Mettupalayam Road,10.937337930745317,76.9875037702942,Two-Wheeler,Clear,State Highway,Minor,Sunday,August,6,0
+2024-10-30,07:07,Race Course Road,11.035835021533519,77.01134616222333,Car/SUV,Clear,State Highway,Minor,Wednesday,October,7,0
+2024-05-17,08:09,Mettupalayam Road,10.930308894432912,77.02877915789216,Two-Wheeler,Rain,State Highway,Serious,Friday,May,8,0
+2024-06-14,16:38,Peelamedu,11.074683284748762,76.98586218728735,Pedestrian,Clear,State Highway,Minor,Friday,June,16,0
+2024-05-05,07:27,Trichy Road,10.955522908354357,76.91084320805122,Truck,Clear,State Highway,Minor,Sunday,May,7,0
+2024-02-14,08:34,Brookefields,11.031442426559302,76.98643909477758,Truck,Clear,State Highway,Fatal,Wednesday,February,8,1
+2024-05-22,20:59,Cross Cut Road,11.04427274713054,76.92926461118996,Two-Wheeler,Clear,State Highway,Serious,Wednesday,May,20,0
+2024-08-18,23:10,Mettupalayam Road,10.968057220440196,76.87980007712338,Truck,Clear,State Highway,Minor,Sunday,August,23,0
+2024-05-04,12:11,Periyanaickenpalayam,11.001001400699316,76.87232739811249,Two-Wheeler,Clear,National Highway,Fatal,Saturday,May,12,1
+2024-08-25,10:39,Pollachi Road,11.061724607307987,76.95364368819207,Two-Wheeler,Fog,State Highway,Serious,Sunday,August,10,0
+2024-10-18,02:00,Periyanaickenpalayam,11.005724862721449,76.98955844196747,Car/SUV,Clear,State Highway,Serious,Friday,October,2,0
+2024-11-08,12:52,Singanallur,10.965430495574582,76.95774969955822,Car/SUV,Clear,State Highway,Serious,Friday,November,12,0
+2024-12-08,14:32,Pollachi Road,11.076205116802559,76.86040535226293,Two-Wheeler,Clear,State Highway,Serious,Sunday,December,14,0
+2024-07-13,16:43,Avinashi Road,10.928898236572266,76.97039638176463,Truck,Rain,State Highway,Minor,Saturday,July,16,0
+2024-06-21,14:53,Trichy Road,10.979133371616188,76.97032611309214,Car/SUV,Cloudy,State Highway,Fatal,Friday,June,14,1
+2024-01-15,12:05,Trichy Road,11.003969625629672,76.91054496140141,Two-Wheeler,Clear,National Highway,Fatal,Monday,January,12,1
+2024-09-10,15:18,Mettupalayam Road,11.10874827027873,77.0048718589642,Truck,Clear,National Highway,Fatal,Tuesday,September,15,1
+2024-06-15,01:34,Race Course Road,11.067674727007365,77.01466874287259,Truck,Clear,State Highway,Fatal,Saturday,June,1,1
+2024-04-03,10:36,Thudiyalur,10.97903764804552,76.89201931878323,Two-Wheeler,Clear,State Highway,Minor,Wednesday,April,10,0
+2024-09-06,19:35,Gandhipuram,11.093844382007633,76.95263829545968,Car/SUV,Rain,National Highway,Serious,Friday,September,19,0
+2024-04-18,17:07,Mettupalayam Road,11.071899132874048,76.98471932979633,Two-Wheeler,Clear,National Highway,Minor,Thursday,April,17,0
+2024-06-30,11:52,Karamadai,10.946281812521105,76.9425312957322,Bus,Clear,National Highway,Serious,Sunday,June,11,0
+2024-05-12,23:52,Race Course Road,10.97853488289614,76.9700846198756,Two-Wheeler,Clear,State Highway,Serious,Sunday,May,23,0
+2024-06-23,20:28,Cross Cut Road,10.985380063121116,76.8756882510144,Truck,Rain,Village Roads,Serious,Sunday,June,20,0
+2024-05-23,16:06,Cross Cut Road,10.990565999034452,76.86849966023232,Two-Wheeler,Rain,National Highway,Minor,Thursday,May,16,0
+2024-11-01,20:48,Thudiyalur,10.91841636846912,77.03757610466214,Two-Wheeler,Clear,State Highway,Fatal,Friday,November,20,1
+2024-12-25,09:28,Sathy Road,11.034087982490178,77.01484496541248,Two-Wheeler,Clear,State Highway,Serious,Wednesday,December,9,0
+2024-05-21,09:28,Avinashi Road,11.052460074866712,76.892777969714,Two-Wheeler,Clear,National Highway,Fatal,Tuesday,May,9,1
+2024-10-11,18:49,Thudiyalur,10.928263529225271,77.01837358744851,Two-Wheeler,Clear,City Roads,Minor,Friday,October,18,0
+2024-01-06,18:51,Pollachi Road,11.018221573488688,76.85974927768974,Two-Wheeler,Clear,State Highway,Minor,Saturday,January,18,0
+2024-09-21,20:22,Peelamedu,11.08383498595871,76.96701203276136,Car/SUV,Rain,State Highway,Serious,Saturday,September,20,0
+2024-04-07,20:40,Karamadai,11.088540441105675,76.96308335795324,Two-Wheeler,Clear,National Highway,Serious,Sunday,April,20,0
+2024-02-13,14:08,Brookefields,11.001212228083336,77.01823925173593,Truck,Clear,National Highway,Serious,Tuesday,February,14,0
+2024-05-03,18:51,Periyanaickenpalayam,10.95588142592983,76.9535126524805,Two-Wheeler,Clear,State Highway,Minor,Friday,May,18,0
+2024-07-27,02:34,Cross Cut Road,10.956874380696647,76.95958022318652,Two-Wheeler,Rain,State Highway,Minor,Saturday,July,2,0
+2024-09-07,11:10,Mettupalayam Road,11.098500043680163,76.972744307892,Car/SUV,Clear,State Highway,Serious,Saturday,September,11,0
+2024-10-11,11:18,Brookefields,11.073852761418228,76.99854982485,Two-Wheeler,Clear,City Roads,Minor,Friday,October,11,0
+2024-05-03,10:54,Periyanaickenpalayam,10.985110384734504,77.01381353849723,Auto-Rickshaw,Clear,State Highway,Serious,Friday,May,10,0
+2024-12-19,17:52,Brookefields,11.050372027796097,76.88061786571966,Two-Wheeler,Clear,City Roads,Minor,Thursday,December,17,0
+2024-08-31,07:58,Periyanaickenpalayam,11.055756315356255,77.00639763820091,Two-Wheeler,Clear,State Highway,Fatal,Saturday,August,7,1
+2024-11-26,02:55,Brookefields,11.11318465116531,77.04893620874074,Truck,Clear,National Highway,Minor,Tuesday,November,2,0
+2024-12-30,17:55,Race Course Road,11.036752460665127,77.03532045964796,Auto-Rickshaw,Clear,National Highway,Fatal,Monday,December,17,1
+2024-09-08,06:45,Trichy Road,10.98302908689381,76.89193283464611,Bus,Clear,National Highway,Minor,Sunday,September,6,0
+2024-08-17,09:48,Sathy Road,11.03248214977696,76.97562052131774,Truck,Clear,City Roads,Fatal,Saturday,August,9,1
+2024-01-09,19:31,Sathy Road,11.10941297782609,76.89178751128513,Two-Wheeler,Rain,State Highway,Fatal,Tuesday,January,19,1
+2024-02-17,08:17,Karanampettai,11.040020627456354,76.96674435371045,Two-Wheeler,Clear,State Highway,Fatal,Saturday,February,8,1
+2024-05-30,16:28,Avinashi Road,11.000539057672945,77.0159025943671,Car/SUV,Clear,State Highway,Fatal,Thursday,May,16,1
+2024-04-23,00:25,Avinashi Road,10.949255997325253,76.88040906064383,Truck,Cloudy,State Highway,Fatal,Tuesday,April,0,1
+2024-07-26,16:44,Karamadai,11.007660418790737,76.88156319810015,Two-Wheeler,Clear,State Highway,Minor,Friday,July,16,0
+2024-12-20,22:29,Gandhipuram,11.074638277385448,76.89704598004317,Two-Wheeler,Clear,State Highway,Minor,Friday,December,22,0
+2024-05-04,22:37,Mettupalayam Road,10.925238429975407,76.88804205238792,Two-Wheeler,Clear,National Highway,Fatal,Saturday,May,22,1
+2024-06-05,05:05,Thudiyalur,10.960681176292827,76.9682992419135,Pedestrian,Rain,State Highway,Minor,Wednesday,June,5,0
+2024-12-05,19:40,Gandhipuram,10.917539414451669,77.02609002123037,Two-Wheeler,Clear,State Highway,Minor,Thursday,December,19,0
+2024-10-24,16:54,Karamadai,10.961405017741352,76.86280105590315,Car/SUV,Fog,State Highway,Fatal,Thursday,October,16,1
+2024-07-07,04:25,Race Course Road,10.962854802040065,77.05178568696486,Two-Wheeler,Rain,National Highway,Fatal,Sunday,July,4,1
+2024-08-30,10:52,Cross Cut Road,11.041584003515748,76.95702966214802,Two-Wheeler,Clear,National Highway,Minor,Friday,August,10,0
+2024-10-10,10:20,Singanallur,10.964603807974974,76.92851192813855,Two-Wheeler,Clear,State Highway,Serious,Thursday,October,10,0
+2024-09-28,19:35,Race Course Road,11.0637172355061,76.96468543005525,Two-Wheeler,Clear,State Highway,Fatal,Saturday,September,19,1
+2024-06-25,17:54,Brookefields,11.107317645798107,76.94041026545926,Bus,Clear,National Highway,Fatal,Tuesday,June,17,1
+2024-08-05,13:57,Brookefields,10.983103021918641,77.04484569694125,Two-Wheeler,Rain,State Highway,Fatal,Monday,August,13,1
+2024-10-08,18:02,Singanallur,11.064816277515757,76.85581711286356,Truck,Clear,State Highway,Fatal,Tuesday,October,18,1
+2024-06-18,07:01,Avinashi Road,10.957863272059429,76.9159199955436,Two-Wheeler,Clear,State Highway,Minor,Tuesday,June,7,0
+2024-06-29,06:28,Avinashi Road,10.953648902443177,77.04504292317895,Truck,Clear,State Highway,Minor,Saturday,June,6,0
+2024-12-25,13:12,Trichy Road,11.114775608716496,76.9596886143336,Two-Wheeler,Rain,State Highway,Minor,Wednesday,December,13,0
+2024-08-20,21:56,Karanampettai,10.989363429191547,77.01236036480277,Auto-Rickshaw,Clear,Village Roads,Minor,Tuesday,August,21,0
+2024-05-18,15:55,Race Course Road,10.931546231373975,76.98763151563122,Truck,Clear,State Highway,Fatal,Saturday,May,15,1
+2024-06-05,22:05,Periyanaickenpalayam,10.922803517739014,76.94478405751563,Two-Wheeler,Clear,State Highway,Minor,Wednesday,June,22,0

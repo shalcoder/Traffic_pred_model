@@ -1,0 +1,7 @@
+Phase,Timeline,Key Deliverables,Free Tools
+Phase 1: Setup & Data Collection,Weeks 1-2,"Project setup, literature review, dataset download","Python, QGIS, Jupyter, GitHub"
+Phase 2: Data Cleaning & Exploration,Weeks 3-4,"Clean data, exploratory data analysis, basic statistics","Python (pandas, numpy), Excel/LibreOffice"
+Phase 3: Statistical Analysis,Weeks 5-8,"Descriptive statistics, correlation analysis, basic modeling","Python (scipy, matplotlib, seaborn), R (optional)"
+Phase 4: Spatial Analysis & Hotspot Detection,Weeks 9-12,"Hotspot maps, spatial analysis, risk factor identification","QGIS, Python (geopandas, folium), OpenStreetMap"
+Phase 5: Visualization & Reporting,Weeks 13-16,"Dashboard creation, charts, preliminary report","Python (plotly, streamlit), PowerBI (free), Canva"
+Phase 6: Final Presentation & Documentation,Weeks 17-18,"Final report, presentation slides, project demonstration","LaTeX/Word, PowerPoint, GitHub Pages"
