@@ -663,7 +663,7 @@ else:
 st.markdown("---")
 st.markdown("""
 <div style='text-align: center; color: #666; padding: 20px;'>
-    <p>🚦 Traffic Accident Analytics Pro | Powered by Advanced AI & Machine Learning</p>
+    <p>🚦 Vehicle Collision Analysis Engine | Powered by Advanced AI & Machine Learning</p>
     <p>Built with ❤️ using Streamlit, Plotly, and Professional Data Science</p>
     <p>📊 Real-time Analytics | 🤖 AI Insights | 📈 Predictive Modeling</p>
 </div>
